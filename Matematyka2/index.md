@@ -10,8 +10,7 @@
 Zaliczenie projektu uzyskuje się po przyjęciu przez prowadzącego wszystkich zadań zaliczeniowych. Zadania są wydawane w trakcie zajęć. Maksymalna punktacja za zadanie wynosi:
 - 100% za zadanie oddane w trakcie zajęć,
 - 80% za zadanie oddane w pierwszym tygodniu po zajęciach,
-- 60% za zadanie oddane w drugim tygodniu po zajęciach,
-- 40% za zadanie oddane w trzecim tygodniu po zajęciach lub później.
+- i tak dalej -20% za zadanie oddane w każdym kolejnym tygodniu.
 
 ## Oprogramowanie
 
