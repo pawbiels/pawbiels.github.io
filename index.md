@@ -1,6 +1,6 @@
 # Paweł Bielski
 
-<img src="./profile.jpg" alt="Profile Photo" width="200" height="200">
+<img src="https://rzodkiewborys.github.io/home/profile.jpg" alt="Profile Photo" width="200" height="200">
 
 [Politechnika Gdańska](https://wimio.pg.edu.pl/) / [Polski Rejestr Statków](https://prs.pl/rd/)
 
