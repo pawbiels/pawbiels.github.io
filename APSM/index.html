@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>Advanced Problems of Structural Mechanics&colon; &ast;&ast;Project&ast;&ast;</title>
+            <style>
+/* From extension vscode.github */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+.vscode-dark img[src$=\#gh-light-mode-only],
+.vscode-light img[src$=\#gh-dark-mode-only],
+.vscode-high-contrast:not(.vscode-high-contrast-light) img[src$=\#gh-light-mode-only],
+.vscode-high-contrast-light img[src$=\#gh-dark-mode-only] {
+	display: none;
+}
+
+</style>
+            
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-left: -20px;
+    vertical-align: middle;
+    pointer-events: none;
+}
+</style>
+<style>
+:root {
+  --color-note: #0969da;
+  --color-tip: #1a7f37;
+  --color-warning: #9a6700;
+  --color-severe: #bc4c00;
+  --color-caution: #d1242f;
+  --color-important: #8250df;
+}
+
+</style>
+<style>
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-note: #2f81f7;
+    --color-tip: #3fb950;
+    --color-warning: #d29922;
+    --color-severe: #db6d28;
+    --color-caution: #f85149;
+    --color-important: #a371f7;
+  }
+}
+
+</style>
+<style>
+.markdown-alert {
+  padding: 0.5rem 1rem;
+  margin-bottom: 16px;
+  color: inherit;
+  border-left: .25em solid #888;
+}
+
+.markdown-alert>:first-child {
+  margin-top: 0
+}
+
+.markdown-alert>:last-child {
+  margin-bottom: 0
+}
+
+.markdown-alert .markdown-alert-title {
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+  line-height: 1
+}
+
+.markdown-alert .markdown-alert-title .octicon {
+  margin-right: 0.5rem;
+  display: inline-block;
+  overflow: visible !important;
+  vertical-align: text-bottom;
+  fill: currentColor;
+}
+
+.markdown-alert.markdown-alert-note {
+  border-left-color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-note .markdown-alert-title {
+  color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-important {
+  border-left-color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-important .markdown-alert-title {
+  color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-warning {
+  border-left-color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-warning .markdown-alert-title {
+  color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-tip {
+  border-left-color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-tip .markdown-alert-title {
+  color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-caution {
+  border-left-color: var(--color-caution);
+}
+
+.markdown-alert.markdown-alert-caution .markdown-alert-title {
+  color: var(--color-caution);
+}
+
+</style>
+        
+        </head>
+        <body class="vscode-body vscode-light">
+            <h1 id="advanced-problems-of-structural-mechanics-project">Advanced Problems of Structural Mechanics: <strong>Project</strong></h1>
+<h2 id="general-information">General information</h2>
+<ul>
+<li>Author: Paweł Bielski, version 06.10.2025</li>
+<li>eLearning course: <a href="https://enauczanie.pg.edu.pl/2025/course/view.php?id=684">Advanced problems of structural mechanics</a></li>
+<li>Field of study: Naval Architecture and Offshore Structures, Gdańsk University of Technology</li>
+<li>Specialisation: Design of Ships and Ocean Engineering Equipment (WIMiO), second-cycle studies, Full-time studies, 2025/2026 - winter</li>
+</ul>
+<h2 id="schedule-of-the-meetings">Schedule of the meetings</h2>
+<p>The project is conducted under the supervision of two teachers. Most meetings are held by Paweł Bielski, unless otherwise specified. Krzysztof Wołoszyk is the teacher responsible for the subject and the lectures.</p>
+<p>PB: Paweł Bielski<br>
+KW: Krzysztof Wołoszyk</p>
+<ol>
+<li>
+<p>06-10.10.2025, PB/<strong>KW</strong> --- Proposal and confirmation of individual project topics</p>
+</li>
+<li>
+<p>20-24.10.2025, PB --- Working on the tasks</p>
+</li>
+<li>
+<p>17-21.11.2025, <strong>KW</strong> --- Mid-semester evaluation of the project progress (25 pts)</p>
+</li>
+<li>
+<p>01-05.12.2025, PB --- Working on the tasks</p>
+</li>
+<li>
+<p>12-16.01.2026, PB --- Working on the tasks</p>
+</li>
+<li>
+<p>26-30.01.2026, PB/<strong>KW</strong> --- Evaluation of the final project (25 pts), public presentations (20 pts)</p>
+</li>
+</ol>
+<h2 id="course-design">Course design</h2>
+<h3 id="initial-idea">Initial idea</h3>
+<p>The course is held in an open format. Each student is encouraged to propose an individual project topic. The project should involve either (1) solving an advanced structural mechanics problem, or (2) developing a custom computational tool. The topic is not limited to any specific software. The task may be addressed using an FEM program (e.g. Femap), a programming language (Python, MATLAB, Scilab), or any other appropriate tool.</p>
+<p>During the first week, students are expected to present a project plan consisting of:</p>
+<ul>
+<li>a conceptual description of the problem,</li>
+<li>the chosen software tools,</li>
+<li>criteria defining the final outcome.</li>
+</ul>
+<p>The plan may be modified as the project develops.</p>
+<h3 id="mid-semester-evaluation">Mid-semester evaluation</h3>
+<p>For the mid-semester evaluation, an updated version of the plan should be presented and approved by the teacher. The mid-semester assessment is conducted as public presentations of progress and open discussions, lasting approximately 15 minutes per person.</p>
+<p>Both the mid-semester and final presentations must include:</p>
+<ul>
+<li>an outline,</li>
+<li>slide numbering along with the total slide count on each slide,</li>
+<li>maximum of 2 figures per slide,</li>
+<li>minimum font size 18 for text body (also on figures/tables), 24 for titles.</li>
+</ul>
+<h3 id="final-evaluation">Final evaluation</h3>
+<p>By the end of the semester, the concluding presentation should be prepared, along with a short report in the form of an extended conference abstract. The extended abstract should fit on two A4 pages, in 11-point font, approximately 500 words, plus one or two figures. The purpose of the abstract is to summarise the project briefly. An example of a conference abstract is available <a href="./docs/abstract.pdf">here</a>.</p>
+<p>The final presentation should consist of:</p>
+<ul>
+<li>a theoretical description of the problem,</li>
+<li>relevant drawings,</li>
+<li>description of the methods and/or functions,</li>
+<li>results and/or example computations,</li>
+<li>a discussion on the applicability of the results or tool.</li>
+</ul>
+<p>The results will be publicly presented and discussed during the final meeting week. The maximum presentation time is 15 minutes per person. The final presentations will be held:</p>
+<ul>
+<li>on January 26th (Monday) for Group 1, with January 28th as a secondary term if needed,</li>
+<li>on January 29th (Thursday) for Group 2, with January 30th as a secondary term if needed.</li>
+</ul>
+<h2 id="grading-system">Grading system</h2>
+<p>A maximum of 70 points can be obtained for the project part of the subject:</p>
+<ul>
+<li><strong>25 pts</strong> --- Mid-semester evaluation of the project progress,</li>
+<li><strong>20 pts</strong> --- Extended abstract summarising the project,</li>
+<li><strong>25 pts</strong> --- Final presentation of the project results.</li>
+</ul>
+<p>Progress is evaluated in person during the scheduled classes. The awarded points reflect the student’s progress at the given date and are generally not subject to revision.</p>
+<h2 id="contact-information">Contact information</h2>
+<ul>
+<li>Paweł Bielski: <a href="mailto:pawbiels@pg.edu.pl">pawbiels@pg.edu.pl</a>, room 318, Institute of Naval Architecture building,</li>
+<li>Krzysztof Wołoszyk: <a href="mailto:krzwolos@pg.edu.pl">krzwolos@pg.edu.pl</a>, room 323, Institute of Naval Architecture building,</li>
+<li>Discord server invitation link: <a href="https://discord.gg/PWnuq4aY7v">group 1</a>,</li>
+<li>Discord server invitation link: <a href="https://discord.gg/NKZActYVUS">group 2</a>.</li>
+</ul>
+<!-- ## [Rules](./docs/ProjectRules.html) -->
+            
+            
+        </body>
+        </html>
