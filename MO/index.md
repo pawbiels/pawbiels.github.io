@@ -1,5 +1,7 @@
 # Mechanika ogólna: Ćwiczenia
 
+<img src="https://rzodkiewborys.github.io/home/profile.jpg" alt="Profile Photo" width="200" height="200">
+
 Prowadzący: **Paweł Bielski**\
 Rok akademicki: **2025/26**\
 Dotyczy grup: **OiKM C3**, **PiBJ C2**, **TiL C3**

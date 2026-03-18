@@ -6,7 +6,7 @@
 
 ## Kontakt
 
-[e-mail PG](mailto:pawbiels@pg.edu.pl) | [e-mail PRS](mailto:p.bielski@prs.pl) | [Discord](https://discordapp.com/users/mechaniszcze)
+[e-mail PG](mailto:pawbiels@pg.edu.pl) | [e-mail PRS](mailto:p.bielski@prs.pl) | [Discord](https://discord.com/users/760787726143717397)
 
 |Portal|Link|
 |-|-|
