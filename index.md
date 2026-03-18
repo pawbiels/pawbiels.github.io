@@ -1,6 +1,6 @@
 # Paweł Bielski
 
-<img src="https://rzodkiewborys.github.io/home/profile.jpg" alt="Profile Photo" width="200" height="200">
+<img src="https://pawbiels.github.io/profile.jpg" alt="Profile Photo" width="200" height="200">
 
 [Politechnika Gdańska](https://wimio.pg.edu.pl/) / [Polski Rejestr Statków](https://prs.pl/rd/)
 
@@ -18,5 +18,5 @@
 
 ## Przedmioty 2025/26
 
-- [Mechanika Ogólna: Ćwiczenia](./MO/index.html)
-- [Matematyka 2: Projekt](./Matematyka2/index.html)
+- [Mechanika Ogólna: Ćwiczenia](./MO/)
+- [Matematyka 2: Projekt](./Matematyka2/)

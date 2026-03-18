@@ -1,6 +1,6 @@
 # Matematyka II: **Projekt**
 
-<img src="https://rzodkiewborys.github.io/home/profile.jpg" alt="Profile Photo" width="200" height="200">
+<img src="https://pawbiels.github.io/profile.jpg" alt="Profile Photo" width="200" height="200">
 
 Prowadzący: **Paweł Bielski**\
 Rok akademicki: **2025/26**\
