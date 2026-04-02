@@ -1,6 +1,10 @@
-# Różniczkowanie numeryczne
+# Różniczkowanie numeryczne i analiza zbieżności
 
 Przygotuj skrypt `*.m` wykonujący poniższe polecenie. Po zakończeniu wklej zawartość skryptu (kod jako tekst) w polu tekstowym odpowiedzi do zadania.
+
+## Cel zadania
+
+Celem zadania jest numeryczne wyznaczenie pochodnej funkcji dyskretnej z odpowiednią dokładnością. Zbadana zostanie zbieżność rozwiązania wraz ze zmianą liczby elementów dziedziny dyskretnej.
 
 ## Polecenie
 
