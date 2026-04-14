@@ -14,7 +14,7 @@ $$
 y(x) = a\sin(b \cdot x) + c\cos(d \cdot x) + ex^2 + f^x
 $$
 
-Zerowe współczynniki zamień na inne cyfry. Naszkicuj osobno każdy element powyższej sumy na wspólnym wykresie w dziedzinie od -2 do 2, tak aby porównać proporcje między funkcjami. Jeśli jedna z funkcji będzie znacząco dominować nad pozostałymi na wykresie, zmodyfikuj jej współczynniki. **Uwaga!** W Matlabie niektóre operacje na elementach wektorów (np. mnożenie i potęgowanie) trzeba definiwać z użyciem kropki (`.^` zamiast `^`). Sprawdź [element-wise operations](https://www.mathworks.com/help/matlab/ref/period.html).
+Zerowe współczynniki zamień na inne cyfry. Zdefinuj funkcję jako [funkcję anonimową](https://www.mathworks.com/help/matlab/matlab_prog/anonymous-functions.html). Naszkicuj osobno każdy element powyższej sumy na wspólnym wykresie w dziedzinie od -2 do 2, tak aby porównać proporcje między funkcjami. Jeśli jedna z funkcji będzie znacząco dominować nad pozostałymi na wykresie, zmodyfikuj jej współczynniki. **Uwaga!** W Matlabie niektóre operacje na elementach wektorów (np. mnożenie i potęgowanie) trzeba definiwać z użyciem kropki (`.^` zamiast `^`). Sprawdź [element-wise operations](https://www.mathworks.com/help/matlab/ref/period.html).
 
 Następnie stwórz w Matlabie funkcję, która będzie wykonywać poniższą instrukcję. "Wyznacz wartości funkcji w pięciu równo oddalnych punktach dziedziny $x$ w zakresie od -2 do 2. Następnie wyznacz pochodną funkcji, stosując metodę różnic centralnych (wygooglaj algorytm *finite difference method*). Numerycznie scałkuj funkcję w granicach dziedziny (od -2 do 2), wykorzystując metodę trapezową (wyszukaj *trapezoidal numerical integration*). Wynikiem będzie liczba; zapamiętaj tę liczbę. W ten sam sposób oblicz całkę oznaczoną pochodnej funkcji i tę liczbę również zapamiętaj. W teorii liczba ta powinna odpowiadać zmianie wartości funkcji w zadanym przedziale, czyli różnicy między wartością ostatniego i pierwszego punktu."
 
@@ -26,10 +26,11 @@ Na koniec stwórz **jeden rysunek** (w Matlabie `figure`), zawierający sześć 
 
 Dowiedz się więcej, wpisując w konsolę `help nazwa_funkcji`
 
+- `@(x)` definuje funkcję anonimową zależną od parametru `x`
 - `linspace` generuje dziedzinę o zadanych granicach i liczbie elementów
-- `plot` pozwala szkicować prosty wykres funkcji
+- `plot` szkicuje wykres funkcji
 - `hold on` umożliwia dodawanie kolejnych krzywych na jednym wykresie
-- `for` tworzy klasyczną pętlę for
+- `for` tworzy klasyczną pętlę `for`
 - `function` definiuje własną funkcję
 - `trapz` realizuje całkowanie numeryczne
 - `v(end+1) = k` dodaje element `k` na końcu wektora `v`
