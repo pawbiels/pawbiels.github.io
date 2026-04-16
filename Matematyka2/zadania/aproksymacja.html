@@ -142,7 +142,7 @@
             <h1 id="interpolacja-ekstrapolacja-i-aproksymacja-wartości-funkcji">Interpolacja, ekstrapolacja i aproksymacja wartości funkcji</h1>
 <p>Przygotuj skrypt <code>*.m</code> wykonujący poniższe polecenie. Po zakończeniu wklej zawartość skryptu (kod jako tekst) w polu tekstowym odpowiedzi do zadania.</p>
 <h2 id="cel-zadania">Cel zadania</h2>
-<p>Dane do zadania stanowią dyskretne wartości funkcji odpowiadające numerom indeksu, odpowiadające na osi <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>X</mi></mrow><annotation encoding="application/x-tex">X</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.07847em;">X</span></span></span></span> argumentom od 1 do 6. Zadanie polega na aproksymacji funkcji:</p>
+<p>Dane do zadania stanowią dyskretne wartości funkcji odpowiadające numerom indeksu, odpowiadające na osi <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">x</span></span></span></span> argumentom od 1 do 6. Zadanie polega na aproksymacji funkcji:</p>
 <ul>
 <li>krzywą łamaną z wykorzystaniem <a href="https://www.mathworks.com/help/matlab/ref/double.interp1.html">interpolacji liniowej</a> pomiędzy podanymi punktami oraz ekstrapolacji liniowej poza zakresem argumentów,</li>
 <li>pojedynczą funkcją liniową z wykorzystaniem <a href="https://www.mathworks.com/discovery/linear-regression.html">regresji liniowej</a>,</li>
@@ -159,7 +159,7 @@
 <li>funkcję liniową (wynik regresji) i aproksymowane punkty,</li>
 <li>funkcje wielomianowe i aproksymowane punkty.</li>
 </ul>
-<p>Aproksymowane punkty oznacz różnymi znacznikami w zależności od stosowanej funkcji. Opisz we właściwy sposób wykres i zamieść legendę.</p>
+<p>Aproksymowane punkty oznacz różnymi znacznikami w zależności od stosowanej funkcji. Opisz we właściwy sposób wykres i zamieść legendę. Jeżeli funkcje wielomianowe osiągają bardzo duże wartości na granicach przedziałów, zmniejsz zakres widoczności wykresu z wykorzystaniem funkcji <a href="https://www.mathworks.com/help/matlab/ref/ylim.html"><code>ylim</code></a>.</p>
 <p>Przygotuj również <a href="https://www.mathworks.com/help/matlab/tables.html">tabelę</a> zawierającą aproksymowane wartości na wzór jak poniżej. Tabela powinna posiadać nagłówki zawierające nazwy kolumn, a wartości aproksymowanych punktów należy przedstawić z wyświetleniem trzech miejsc po przecinku (0.000). Tabelę zapisz do pliku <code>txt</code>.</p>
 <table>
 <thead>
@@ -211,11 +211,12 @@
 <h2 id="przydatne-funkcje">Przydatne funkcje</h2>
 <p>Dowiedz się więcej, wpisując w konsolę <code>help nazwa_funkcji</code></p>
 <ul>
-<li><a href="https://www.mathworks.com/help/matlab/ref/double.interp1.html"><code>interp1</code></a></li>
-<li><a href="https://www.mathworks.com/help/matlab/ref/polyfit.html"><code>polyfit</code></a></li>
-<li><a href="https://www.mathworks.com/help/matlab/ref/polyval.html"><code>polyval</code></a></li>
-<li><a href="https://www.mathworks.com/help/matlab/ref/table.html"><code>table</code></a></li>
-<li><a href="https://www.mathworks.com/help/matlab/ref/writetable.html"><code>writetable</code></a></li>
+<li><a href="https://www.mathworks.com/help/matlab/ref/double.interp1.html"><code>interp1</code></a> realizuje interpolację liniową</li>
+<li><a href="https://www.mathworks.com/help/matlab/ref/polyfit.html"><code>polyfit</code></a> dopasowuje funkcję wielomianową do zadanych punktów</li>
+<li><a href="https://www.mathworks.com/help/matlab/ref/polyval.html"><code>polyval</code></a> zwraca współczynniki funkcji wielomianowej</li>
+<li><a href="https://www.mathworks.com/help/matlab/ref/ylim.html"><code>ylim</code></a> określa widoczny zakres osi <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>y</mi></mrow><annotation encoding="application/x-tex">y</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span></span></span></span></li>
+<li><a href="https://www.mathworks.com/help/matlab/ref/table.html"><code>table</code></a> tworzy tabelę danych</li>
+<li><a href="https://www.mathworks.com/help/matlab/ref/writetable.html"><code>writetable</code></a> zapisuje tabelę danych</li>
 </ul>
 
             <script async src="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.js"></script>
