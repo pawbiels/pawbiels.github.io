@@ -31,11 +31,9 @@ a_{21}x_1 + a_{22}x_2 + a_{23}x_3 = b_2 \\
 a_{31}x_1 + a_{32}x_2 + a_{33}x_3 = b_3
 $$
 
-Dobierz współczynniki i wyrazy wolne tak, aby każdy współczynnik $a_{mn}$ stanowił sumę $n$-tej i $m$-tej cyfry Twojego indeksu, a wyrazy $b_1$, $b_2$ i $b_3$ stanowiły odpowiednio czwartą, piątą i szóstą cyfrę indeksu.
+Dobierz dane wejściowe tak, aby każdy współczynnik $a$ oraz wyraz wolny $b$ stanowił sumę lub różnicę pewnych dwóch cyfr z Twojego indeksu. Zadbaj przy tym o to, aby macierz współczynników nie była symetryczna ani osobliwa. Sprawdź, czy wyznacznik macierzy nie jest równy zero.
 
 Rozwiąż układ jedną z dostępnych metod. Następnie zmień układ w nieoznaczony, modyfikując jeden z wierszy macierzy współczynników tak, aby dwa równania były tożsamościowe. Sprawdź, jaki jest wynik rozwiązania takiego układu różnymi metodami. Ponownie weź początkowy układ i dodaj do niego jeszcze jedno równanie, tak aby uzyskać układ sprzeczny. Spróbuj rozwiązać i skomentuj. Wyniki tych prób z komentarzami wyświetl w konsoli.
-
-## Polecenie
 
 Kolejnym krokiem jest zmodyfikowanie powyższego układu tak, aby równania liniowe zastąpić nieliniowymi. Stwórz [funkcję](https://www.mathworks.com/help/optim/ug/fsolve.html#buta__s-fun) zawierającą zmodyfikowane równania, korzystając z wyrażeń wielomianowych, wykładniczych i trygonometrycznych w miejsce prostych wyrażeń liniowych.
 
