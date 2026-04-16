@@ -43,8 +43,8 @@ Następnie rozwiąż układ, wykorzystając funkcję [`fsolve`](https://www.math
 
 Dowiedz się więcej, wpisując w konsolę `help nazwa_funkcji`
 
-- [`inv`] odwraca macierz
-- [`det`] oblicza wyznacznik macierzy
-- [`linsolve`] rozwiązuje układ równań liniowych
-- [`mldivide`] alternatywne rozwiązanie
-- [`fsolve`] rozwiązuje układ równań nieliniowych
+- [`inv`](https://www.mathworks.com/help/matlab/ref/inv) odwraca macierz
+- [`det`](https://www.mathworks.com/help/matlab/ref/det) oblicza wyznacznik macierzy
+- [`linsolve`](https://www.mathworks.com/help/matlab/ref/linsolve) rozwiązuje układ równań liniowych
+- [`mldivide`](https://www.mathworks.com/help/matlab/ref/mldivide) alternatywne rozwiązanie
+- [`fsolve`](https://www.mathworks.com/help/matlab/ref/fsolve) rozwiązuje układ równań nieliniowych
