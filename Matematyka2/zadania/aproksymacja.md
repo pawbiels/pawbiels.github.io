@@ -25,7 +25,7 @@ Stwórz wykres przedstawiający:
 
 Aproksymowane punkty oznacz różnymi znacznikami w zależności od stosowanej funkcji. Opisz we właściwy sposób wykres i zamieść legendę.
 
-Przygotuj również tabelę zawierającą aproksymowane wartości na wzór jak poniżej. Tabela powinna posiadać nagłówki zawierające nazwy kolumn, a wartości aproksymowanych punktów należy przedstawić z wyświetleniem trzech miejsc po przecinku (0.000). Tabelę zapisz do pliku `txt`.
+Przygotuj również [tabelę](https://www.mathworks.com/help/matlab/tables.html) zawierającą aproksymowane wartości na wzór jak poniżej. Tabela powinna posiadać nagłówki zawierające nazwy kolumn, a wartości aproksymowanych punktów należy przedstawić z wyświetleniem trzech miejsc po przecinku (0.000). Tabelę zapisz do pliku `txt`.
 
 | $X$ | Wejściowe | Interpolacja | Regresja liniowa | Wielomian $x^2$ | Wielomian $x^n$ |
 |--|--|--|--|--|--|
@@ -43,3 +43,5 @@ Dowiedz się więcej, wpisując w konsolę `help nazwa_funkcji`
 - [`interp1`](https://www.mathworks.com/help/matlab/ref/double.interp1.html)
 - [`polyfit`](https://www.mathworks.com/help/matlab/ref/polyfit.html)
 - [`polyval`](https://www.mathworks.com/help/matlab/ref/polyval.html)
+- [`table`](https://www.mathworks.com/help/matlab/ref/table.html)
+- [`writetable`](https://www.mathworks.com/help/matlab/ref/writetable.html)
