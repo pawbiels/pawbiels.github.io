@@ -25,7 +25,7 @@ Stwórz wykres przedstawiający:
 
 Opisz we właściwy sposób wykres i zamieść legendę.
 
-Przygotuj również tabelę zawierającą aproksymowane wartości na wzór jak poniżej.
+Przygotuj również tabelę zawierającą aproksymowane wartości na wzór jak poniżej. Tabela powinna być z nagłówkami zawierającymi nazwy kolumn, a wartości aproksymowanych punktów należy przedstawić z wyświetleniem trzech miejsc po przecinku (0.000). Tabelę zapisz do pliku `.txt.`.
 
 | $X$ | Łamana | Liniowa | Wielomianowa |
 |--|--|--|--|
