@@ -48,3 +48,4 @@ Dowiedz się więcej, wpisując w konsolę `help nazwa_funkcji`
 - [`linsolve`](https://www.mathworks.com/help/matlab/ref/linsolve) rozwiązuje układ równań liniowych
 - [`mldivide`](https://www.mathworks.com/help/matlab/ref/mldivide) alternatywne rozwiązanie
 - [`fsolve`](https://www.mathworks.com/help/matlab/ref/fsolve) rozwiązuje układ równań nieliniowych
+- [funkcje anonimowe](https://www.mathworks.com/help/matlab/matlab_prog/anonymous-functions)
