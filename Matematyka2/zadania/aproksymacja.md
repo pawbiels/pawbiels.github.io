@@ -25,7 +25,7 @@ Stwórz wykres przedstawiający:
 
 Aproksymowane punkty oznacz różnymi znacznikami w zależności od stosowanej funkcji. Opisz we właściwy sposób wykres i zamieść legendę. Jeżeli funkcje wielomianowe osiągają bardzo duże wartości na granicach przedziałów, zmniejsz zakres widoczności wykresu z wykorzystaniem funkcji [`ylim`](https://www.mathworks.com/help/matlab/ref/ylim.html).
 
-Przygotuj również [tabelę](https://www.mathworks.com/help/matlab/tables.html) zawierającą aproksymowane wartości na wzór jak poniżej. Tabela powinna posiadać nagłówki zawierające nazwy kolumn, a wartości aproksymowanych punktów należy przedstawić z wyświetleniem trzech miejsc po przecinku (0.000). Tabelę zapisz do pliku `txt`.
+Przygotuj również [tabelę](https://www.mathworks.com/help/matlab/tables.html) zawierającą aproksymowane wartości na wzór jak poniżej. Tabela powinna posiadać nagłówki zawierające nazwy kolumn, a wartości aproksymowanych punktów należy przedstawić z wyświetleniem trzech miejsc po przecinku (0.000). Tabelę zapisz do pliku `txt`. Zadbaj o formatowanie szerokości kolumn tak, aby plik był czytelny i wyglądał jak tabela po wyświetleniu.
 
 | $X$ | Wejściowe | Interpolacja | Regresja liniowa | Wielomian $x^2$ | Wielomian $x^n$ |
 |--|--|--|--|--|--|
