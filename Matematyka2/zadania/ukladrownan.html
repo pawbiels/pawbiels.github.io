@@ -167,16 +167,16 @@ a_{31}x_1 + a_{32}x_2 + a_{33}x_3 = b_3
 <p>Dobierz dane wejściowe tak, aby każdy współczynnik <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>a</mi></mrow><annotation encoding="application/x-tex">a</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">a</span></span></span></span> oraz wyraz wolny <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>b</mi></mrow><annotation encoding="application/x-tex">b</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">b</span></span></span></span> stanowił sumę lub różnicę pewnych dwóch cyfr z Twojego indeksu. Zadbaj przy tym o to, aby macierz współczynników nie była symetryczna ani osobliwa. Sprawdź, czy wyznacznik macierzy nie jest równy zero.</p>
 <p>Rozwiąż układ jedną z dostępnych metod. Następnie zmień układ w nieoznaczony, modyfikując jeden z wierszy macierzy współczynników tak, aby dwa równania były tożsamościowe. Sprawdź, jaki jest wynik rozwiązania takiego układu różnymi metodami. Ponownie weź początkowy układ i dodaj do niego jeszcze jedno równanie, tak aby uzyskać układ sprzeczny. Spróbuj rozwiązać i skomentuj. Wyniki tych prób z komentarzami wyświetl w konsoli.</p>
 <p>Kolejnym krokiem jest zmodyfikowanie powyższego układu tak, aby równania liniowe zastąpić nieliniowymi. Stwórz <a href="https://www.mathworks.com/help/optim/ug/fsolve.html#buta__s-fun">funkcję</a> zawierającą zmodyfikowane równania, korzystając z wyrażeń wielomianowych, wykładniczych i trygonometrycznych w miejsce prostych wyrażeń liniowych.</p>
-<p>Następnie rozwiąż układ, wykorzystając funkcję <a href="https://www.mathworks.com/help/optim/ug/fsolve"><code>fsolve</code></a>. Przetestuj co najmniej trzy różne zestawy algorytmów i parametrów operacji. Eksperymentuj do uzyskania zadowalającej powtarzalności. Wyniki i różnice wyświetl i skomentuj w konsoli.</p>
+<p>Następnie rozwiąż układ, wykorzystając funkcję <a href="https://www.mathworks.com/help/optim/ug/fsolve.html"><code>fsolve</code></a>. Przetestuj co najmniej trzy różne zestawy algorytmów i parametrów operacji. Eksperymentuj do uzyskania zadowalającej powtarzalności. Podstaw każdorazowo obliczony wektor \bm{b}$ pod układ równań i sprawdź rezultat. Wyniki i różnice wyświetl i skomentuj w konsoli.</p>
 <h2 id="przydatne-funkcje">Przydatne funkcje</h2>
 <p>Dowiedz się więcej, wpisując w konsolę <code>help nazwa_funkcji</code></p>
 <ul>
-<li><a href="https://www.mathworks.com/help/matlab/ref/inv"><code>inv</code></a> odwraca macierz</li>
-<li><a href="https://www.mathworks.com/help/matlab/ref/det"><code>det</code></a> oblicza wyznacznik macierzy</li>
-<li><a href="https://www.mathworks.com/help/matlab/ref/linsolve"><code>linsolve</code></a> rozwiązuje układ równań liniowych</li>
-<li><a href="https://www.mathworks.com/help/matlab/ref/mldivide"><code>mldivide</code></a> alternatywne rozwiązanie</li>
-<li><a href="https://www.mathworks.com/help/matlab/ref/fsolve"><code>fsolve</code></a> rozwiązuje układ równań nieliniowych</li>
-<li><a href="https://www.mathworks.com/help/matlab/matlab_prog/anonymous-functions">funkcje anonimowe</a></li>
+<li><a href="https://www.mathworks.com/help/matlab/ref/inv.html"><code>inv</code></a> odwraca macierz</li>
+<li><a href="https://www.mathworks.com/help/matlab/ref/det.html"><code>det</code></a> oblicza wyznacznik macierzy</li>
+<li><a href="https://www.mathworks.com/help/matlab/ref/linsolve.html"><code>linsolve</code></a> rozwiązuje układ równań liniowych</li>
+<li><a href="https://www.mathworks.com/help/matlab/ref/double.mldivide.html"><code>mldivide</code></a> alternatywne rozwiązanie</li>
+<li><a href="https://www.mathworks.com/help/optim/ug/fsolve.html"><code>fsolve</code></a> rozwiązuje układ równań nieliniowych</li>
+<li><a href="https://www.mathworks.com/help/matlab/matlab_prog/anonymous-functions.html">funkcje anonimowe</a></li>
 </ul>
 
             <script async src="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.js"></script>

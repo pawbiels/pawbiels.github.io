@@ -37,15 +37,15 @@ Rozwiąż układ jedną z dostępnych metod. Następnie zmień układ w nieoznac
 
 Kolejnym krokiem jest zmodyfikowanie powyższego układu tak, aby równania liniowe zastąpić nieliniowymi. Stwórz [funkcję](https://www.mathworks.com/help/optim/ug/fsolve.html#buta__s-fun) zawierającą zmodyfikowane równania, korzystając z wyrażeń wielomianowych, wykładniczych i trygonometrycznych w miejsce prostych wyrażeń liniowych.
 
-Następnie rozwiąż układ, wykorzystając funkcję [`fsolve`](https://www.mathworks.com/help/optim/ug/fsolve). Przetestuj co najmniej trzy różne zestawy algorytmów i parametrów operacji. Eksperymentuj do uzyskania zadowalającej powtarzalności. Wyniki i różnice wyświetl i skomentuj w konsoli.
+Następnie rozwiąż układ, wykorzystając funkcję [`fsolve`](https://www.mathworks.com/help/optim/ug/fsolve.html). Przetestuj co najmniej trzy różne zestawy algorytmów i parametrów operacji. Eksperymentuj do uzyskania zadowalającej powtarzalności. Podstaw każdorazowo obliczony wektor \bm{b}$ pod układ równań i sprawdź rezultat. Wyniki i różnice wyświetl i skomentuj w konsoli.
 
 ## Przydatne funkcje
 
 Dowiedz się więcej, wpisując w konsolę `help nazwa_funkcji`
 
-- [`inv`](https://www.mathworks.com/help/matlab/ref/inv) odwraca macierz
-- [`det`](https://www.mathworks.com/help/matlab/ref/det) oblicza wyznacznik macierzy
-- [`linsolve`](https://www.mathworks.com/help/matlab/ref/linsolve) rozwiązuje układ równań liniowych
-- [`mldivide`](https://www.mathworks.com/help/matlab/ref/mldivide) alternatywne rozwiązanie
-- [`fsolve`](https://www.mathworks.com/help/matlab/ref/fsolve) rozwiązuje układ równań nieliniowych
-- [funkcje anonimowe](https://www.mathworks.com/help/matlab/matlab_prog/anonymous-functions)
+- [`inv`](https://www.mathworks.com/help/matlab/ref/inv.html) odwraca macierz
+- [`det`](https://www.mathworks.com/help/matlab/ref/det.html) oblicza wyznacznik macierzy
+- [`linsolve`](https://www.mathworks.com/help/matlab/ref/linsolve.html) rozwiązuje układ równań liniowych
+- [`mldivide`](https://www.mathworks.com/help/matlab/ref/double.mldivide.html) alternatywne rozwiązanie
+- [`fsolve`](https://www.mathworks.com/help/optim/ug/fsolve.html) rozwiązuje układ równań nieliniowych
+- [funkcje anonimowe](https://www.mathworks.com/help/matlab/matlab_prog/anonymous-functions.html)
