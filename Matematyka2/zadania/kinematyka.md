@@ -1,4 +1,4 @@
-# Rozwiązywanie układów równań liniowych i nieliniowych
+# Kinematyka ruchu złożonego
 
 Przygotuj skrypt `*.m` wykonujący poniższe polecenie. Po zakończeniu wklej zawartość skryptu (kod jako tekst) w polu tekstowym odpowiedzi do zadania.
 
@@ -10,9 +10,10 @@ Wyznacz równania ruchu punktu A znajdującego się na obwodzie koła w płaskim
 - przedstaw animację prezentującą:
   - kolejne położenia koła,
   - kolejne położenia punktu A na torze ruchu,
+  - odcinek łączący punkty A i O,
   - konfigurację całkowitych wektorów prędkości i przyspieszenia punktu A.
 
-Wektorom przy wyświetlaniu nadaj stałą, znormalizowaną długość (np. 0.5 promienia koła), a zmieniaj jedynie ich punkt zaczepienia oraz kierunek i zwrot.
+Wektorom prędkości i przyspieszenia przy wyświetlaniu nadaj stałą, znormalizowaną długość (np. 0.5 promienia koła), a zmieniaj jedynie ich punkt zaczepienia oraz kierunek i zwrot.
 
 ## Dane do zadania
 

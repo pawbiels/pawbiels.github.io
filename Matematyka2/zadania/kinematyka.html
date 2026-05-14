@@ -2,7 +2,7 @@
         <html>
         <head>
             <meta charset="UTF-8">
-            <title>Rozwi&aogon;zywanie uk&lstrok;ad&oacute;w r&oacute;wna&nacute; liniowych i nieliniowych</title>
+            <title>Kinematyka ruchu z&lstrok;o&zdot;onego</title>
             <style>
 /* From extension vscode.github */
 /*---------------------------------------------------------------------------------------------
@@ -139,7 +139,7 @@
         
         </head>
         <body class="vscode-body vscode-light">
-            <h1 id="rozwiązywanie-układów-równań-liniowych-i-nieliniowych">Rozwiązywanie układów równań liniowych i nieliniowych</h1>
+            <h1 id="kinematyka-ruchu-złożonego">Kinematyka ruchu złożonego</h1>
 <p>Przygotuj skrypt <code>*.m</code> wykonujący poniższe polecenie. Po zakończeniu wklej zawartość skryptu (kod jako tekst) w polu tekstowym odpowiedzi do zadania.</p>
 <h2 id="cel-zadania">Cel zadania</h2>
 <p>Wyznacz równania ruchu punktu A znajdującego się na obwodzie koła w płaskim ruchu złożonym. Następnie:</p>
@@ -150,11 +150,12 @@
 <ul>
 <li>kolejne położenia koła,</li>
 <li>kolejne położenia punktu A na torze ruchu,</li>
+<li>odcinek łączący punkty A i O,</li>
 <li>konfigurację całkowitych wektorów prędkości i przyspieszenia punktu A.</li>
 </ul>
 </li>
 </ul>
-<p>Wektorom przy wyświetlaniu nadaj stałą, znormalizowaną długość (np. 0.5 promienia koła), a zmieniaj jedynie ich punkt zaczepienia oraz kierunek i zwrot.</p>
+<p>Wektorom prędkości i przyspieszenia przy wyświetlaniu nadaj stałą, znormalizowaną długość (np. 0.5 promienia koła), a zmieniaj jedynie ich punkt zaczepienia oraz kierunek i zwrot.</p>
 <h2 id="dane-do-zadania">Dane do zadania</h2>
 <p>Początkowe położenie środka koła znajduje się w punkcie (0,0). Prędkość środka koła dana jest poniższymi wzorami, gdzie <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>v</mi><mn>0</mn></msub></mrow><annotation encoding="application/x-tex">v_0</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.5806em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.03588em;">v</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:-0.0359em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">0</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span> oznacza początkową prędkość ciała, <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>α</mi></mrow><annotation encoding="application/x-tex">\alpha</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span> -- początkowy kąt nachylenia toru ruchu do poziomu, a <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>g</mi></mrow><annotation encoding="application/x-tex">g</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">g</span></span></span></span> -- przyspieszenie ziemskie:</p>
 <p class="katex-block"><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mo fence="true">{</mo><mtable rowspacing="0.36em" columnalign="left left" columnspacing="1em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="false"><mrow><msub><mi>v</mi><mi>x</mi></msub><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><msub><mi>v</mi><mn>0</mn></msub><mi>cos</mi><mo>⁡</mo><mi>α</mi></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="false"><mrow><msub><mi>v</mi><mi>y</mi></msub><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><msub><mi>v</mi><mn>0</mn></msub><mi>sin</mi><mo>⁡</mo><mi>α</mi><mo>−</mo><mi>g</mi><mi>t</mi></mrow></mstyle></mtd></mtr></mtable></mrow><annotation encoding="application/x-tex">\begin{cases}
