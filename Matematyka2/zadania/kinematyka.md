@@ -4,7 +4,19 @@ Przygotuj skrypt `*.m` wykonujący poniższe polecenie. Po zakończeniu wklej za
 
 ## Cel zadania
 
-Wykreśl animowany tor ruchu punktu A znajdującego się na obwodzie koła w płaskim ruchu złożonym. Początkowe położenie środka koła znajduje się w punkcie (0,0). Prędkość środka koła dana jest poniższymi wzorami, gdzie $v_0$ oznacza początkową prędkość ciała, $\alpha$ -- początkowy kąt nachylenia toru ruchu do poziomu, a $g$ -- przyspieszenie ziemskie:
+Wyznacz równania ruchu punktu A znajdującego się na obwodzie koła w płaskim ruchu złożonym. Następnie:
+- wykreśl tor ruchu środka koła (linią przerywaną)
+- wykreśl tor ruchu punktu A (linią ciągłą)
+- przedstaw animację prezentującą:
+  - kolejne położenia koła,
+  - kolejne położenia punktu A na torze ruchu,
+  - konfigurację całkowitych wektorów prędkości i przyspieszenia punktu A.
+
+Wektorom przy wyświetlaniu nadaj stałą, znormalizowaną długość (np. 0.5 promienia koła), a zmieniaj jedynie ich punkt zaczepienia oraz kierunek i zwrot.
+
+## Dane do zadania
+
+Początkowe położenie środka koła znajduje się w punkcie (0,0). Prędkość środka koła dana jest poniższymi wzorami, gdzie $v_0$ oznacza początkową prędkość ciała, $\alpha$ -- początkowy kąt nachylenia toru ruchu do poziomu, a $g$ -- przyspieszenie ziemskie:
 
 $$
 \begin{cases}
@@ -22,7 +34,7 @@ $$
 \end{cases}
 $$
 
-Przyjmij w dowolny sposób stałe: $v_0, \alpha, \varepsilon, \omega_0$ oraz $R$. Następnie wyznacz poniższe równania ruchu złożonego i wykreśl animowany tor ruchu punktu A.
+Przyjmij w dowolny sposób stałe: $v_0, \alpha, \varepsilon, \omega_0$ oraz $R$. Następnie wyznacz poniższe równania ruchu złożonego.
 
 ## Teoria
 
@@ -82,6 +94,26 @@ $$
 Dowiedz się więcej, wpisując w konsolę `help nazwa_funkcji`
 
 - [`cross`](https://www.mathworks.com/help/matlab/ref/cross.html) oblicza iloczyn wektorowy
-- [`animate`](https://www.mathworks.com/help/phased/ref/polarpattern.animate.html) pozwala animować zawartość wykresów
-- [`movie`](https://www.mathworks.com/help/matlab/ref/movie.html) odtwarza animację
+- [`figure`](https://www.mathworks.com/help/matlab/ref/figure.html) tworzy rysunek
+- [`viscircles`](https://www.mathworks.com/help/matlab/ref/viscircles.html) szkicuje koło lub okrąg
+- [`plot`](https://www.mathworks.com/help/matlab/ref/plot.html) szkicuje wykres (tor ruchu)
+- [`quiver`](https://www.mathworks.com/help/matlab/ref/quiver.html) szkicuje wektor (prędkość i przyspieszenie)
+- [`drawnow`](https://www.mathworks.com/help/matlab/ref/drawnow.html) odświeża wyświelanie wykresu
+- [`set`](https://www.mathworks.com/help/matlab/ref/set.html) uaktualnia parametry obiektu na wykresie
+- [`pause`](https://www.mathworks.com/help/matlab/ref/pause.html) zatrzymuje wykonywanie kodu na n sekund (przydatne przy animowaniu)
+
+Przykładowy kod dla wektora prędkości $v(t)$:
+```matlab
+figure
+wektor = quiver ( x(1), y(1), vx(1), vy(2) );  % poczatkowa pozycja wektora
+for k = 2:length(t)  % modyifkuj wektor dla kolejnych chwil czasu
+    set( wektor, 'XData', x(k), 'YData', y(k), 'UData', vx(k), 'VData', vy(k) )
+    pause( t(k)-t(k-1) )  % zatrzymuje klatke na czas jej trwania
+    drawnow  % przerysuj wykres
+end
+```
+
+Alternatywne podejścia do animacji:
 - [`getframe`](https://www.mathworks.com/help/matlab/ref/getframe.html) funkcja pomocnicza do animowania
+- [`movie`](https://www.mathworks.com/help/matlab/ref/movie.html) odtwarza sekwencję wykresów jako animację
+- [`animate`](https://www.mathworks.com/help/phased/ref/polarpattern.animate.html) pozwala animować zawartość wykresów poprzez ich przerysowanie
