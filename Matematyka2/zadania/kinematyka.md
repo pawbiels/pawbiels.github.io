@@ -106,11 +106,23 @@ Dowiedz się więcej, wpisując w konsolę `help nazwa_funkcji`
 Przykładowy kod dla wektora prędkości $v(t)$:
 ```matlab
 figure
-wektor = quiver ( x(1), y(1), vx(1), vy(2) );  % poczatkowa pozycja wektora
-for k = 2:length(t)  % modyifkuj wektor dla kolejnych chwil czasu
-    set( wektor, 'XData', x(k), 'YData', y(k), 'UData', vx(k), 'VData', vy(k) )
-    pause( t(k)-t(k-1) )  % zatrzymuje klatke na czas jej trwania
-    drawnow  % przerysuj wykres
+
+% poczatkowa pozycja wektora
+wektor = quiver ( x(1), y(1), vx(1), vy(1) );  
+
+% dla kolejnych chwil czasu...
+for k = 2:length(t)  
+
+    % modyifkuj wektor
+    set( wektor, 'XData', x(k),  'YData', y(k),
+                 'UData', vx(k), 'VData', vy(k) )
+
+    % zatrzymaj klatke na czas (do dostosowania)
+    pause( t(k)-t(k-1) )  
+
+    % odswiez wykres
+    drawnow
+
 end
 ```
 

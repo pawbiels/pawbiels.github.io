@@ -218,11 +218,23 @@ y_\text{OA}(t) = R \sin\phi(t)
 </ul>
 <p>Przykładowy kod dla wektora prędkości <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>v</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">v(t)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">v</span><span class="mopen">(</span><span class="mord mathnormal">t</span><span class="mclose">)</span></span></span></span>:</p>
 <pre><code class="language-matlab"><span class="hljs-built_in">figure</span>
-wektor = quiver ( x(<span class="hljs-number">1</span>), y(<span class="hljs-number">1</span>), vx(<span class="hljs-number">1</span>), vy(<span class="hljs-number">2</span>) );  <span class="hljs-comment">% poczatkowa pozycja wektora</span>
-<span class="hljs-keyword">for</span> k = <span class="hljs-number">2</span>:<span class="hljs-built_in">length</span>(t)  <span class="hljs-comment">% modyifkuj wektor dla kolejnych chwil czasu</span>
-    set( wektor, <span class="hljs-string">&#x27;XData&#x27;</span>, x(k), <span class="hljs-string">&#x27;YData&#x27;</span>, y(k), <span class="hljs-string">&#x27;UData&#x27;</span>, vx(k), <span class="hljs-string">&#x27;VData&#x27;</span>, vy(k) )
-    pause( t(k)-t(k<span class="hljs-number">-1</span>) )  <span class="hljs-comment">% zatrzymuje klatke na czas jej trwania</span>
-    drawnow  <span class="hljs-comment">% przerysuj wykres</span>
+
+<span class="hljs-comment">% poczatkowa pozycja wektora</span>
+wektor = quiver ( x(<span class="hljs-number">1</span>), y(<span class="hljs-number">1</span>), vx(<span class="hljs-number">1</span>), vy(<span class="hljs-number">2</span>) );  
+
+<span class="hljs-comment">% dla kolejnych chwil czasu...</span>
+<span class="hljs-keyword">for</span> k = <span class="hljs-number">2</span>:<span class="hljs-built_in">length</span>(t)  
+
+    <span class="hljs-comment">% modyifkuj wektor</span>
+    set( wektor, <span class="hljs-string">&#x27;XData&#x27;</span>, x(k),  <span class="hljs-string">&#x27;YData&#x27;</span>, y(k),
+                 <span class="hljs-string">&#x27;UData&#x27;</span>, vx(k), <span class="hljs-string">&#x27;VData&#x27;</span>, vy(k) )
+
+    <span class="hljs-comment">% zatrzymaj klatke na czas (do dostosowania)</span>
+    pause( t(k)-t(k<span class="hljs-number">-1</span>) )  
+
+    <span class="hljs-comment">% odswiez wykres</span>
+    drawnow
+
 <span class="hljs-keyword">end</span>
 </code></pre>
 <p>Alternatywne podejścia do animacji:</p>
