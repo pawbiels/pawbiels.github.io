@@ -1,6 +1,6 @@
 # Kinematyka ruchu złożonego
 
-Przygotuj skrypt `*.m` wykonujący poniższe polecenie. Po zakończeniu wklej zawartość skryptu (kod jako tekst) w polu tekstowym odpowiedzi do zadania.
+Przygotuj skrypt `.m` wykonujący poniższe polecenie. Po zakończeniu wklej zawartość skryptu (kod jako tekst) w polu tekstowym odpowiedzi do zadania.
 
 ## Cel zadania
 
@@ -13,7 +13,7 @@ Wyznacz równania ruchu punktu A znajdującego się na obwodzie koła w płaskim
   - odcinek łączący punkty A i O,
   - konfigurację całkowitych wektorów prędkości i przyspieszenia punktu A.
 
-Wektorom prędkości i przyspieszenia przy wyświetlaniu nadaj stałą, znormalizowaną długość (np. 0.5 promienia koła), a zmieniaj jedynie ich punkt zaczepienia oraz kierunek i zwrot.
+Wektorom prędkości i przyspieszenia przy wyświetlaniu nadaj stałą, znormalizowaną długość (np. 0.5 promienia koła), a zmieniaj jedynie ich punkt zaczepienia oraz kierunek i zwrot. W legendzie lub w tytule rysunku umieść zmienne w czasie etykiety przedstawiające aktualny czas oraz wartości prędkości, przyspieszenia stycznego i normalnego. Zapisz do pliku `.txt` tabelę zawierającą kolumny: czas, położenie ($x$ i $y$), prędkość ($x$ i $y$), przyspieszenie ($x$ i $y$), przyspieszenie (t i n) punktu A.
 
 ## Dane do zadania
 
