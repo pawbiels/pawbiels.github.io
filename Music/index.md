@@ -3,6 +3,7 @@
 ## Kwity
 
 [I love you!](./i_love_you.html)
+[Jesteśmy na wczasach](./jestesmy_na_wczasach.html)
 
 ## Nagrania
 
