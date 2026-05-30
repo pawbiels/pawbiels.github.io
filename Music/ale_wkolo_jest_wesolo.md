@@ -3,11 +3,11 @@
 
 | | |
 |-|-|
-|Title|Ale wkoło jest wesoło|
-|Artist|Perfect
-|Time signature|4/4|
-|Tempo|176 BPM|
-|Key|B- (original)|
+| Title | Ale wkoło jest wesoło |
+| Artist | Perfect |
+| Time signature | 4/4 |
+| Tempo | 176 BPM |
+| Key | B- (original) |
 
 # Form
 

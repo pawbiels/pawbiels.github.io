@@ -1,13 +1,19 @@
 # I love you!
 [Short form](#short-form) | [Full form](#full-form) | [Short lyrics](#short-lyrics) | [Full lyrics](#full-lyrics)
 
+| | |
+|-|-|
+| Title | I love you! |
+| Artist | T.Love |
+| Time signature | 4/4 |
+| Tempo | 80 BPM |
+| Key | G (original) |
+
 ## Form
 
 ### Short form
 
 ```text
-I love you! (T. Love)
-
 [Intro] (guitar)
 |:   G            C  D   |           C           :|
 
@@ -50,8 +56,6 @@ I love you! (T. Love)
 ### Full form
 
 ```text
-I love you! (T. Love)
-
 [Intro] (guitar)
 |                        |                        |
 |                        |                        |
@@ -135,7 +139,7 @@ I love you! (T. Love)
 ### Short lyrics
 
 ```text
-I love you (T. Love)
+[Intro + Break]
 
 [V1] Olewam rząd, mandaty drogowe
 Dilerów, maklerów, warty honorowe
@@ -203,8 +207,6 @@ I love you, I love you, I love you, I…
 ### Full lyrics
 
 ```text
-I love you (T. Love)
-
 [Intro + Break]
 
 [V1] Olewam rząd, mandaty drogowe

@@ -44,6 +44,7 @@ This piece is too complex. See Full form.
 | D- | % | % | % |
 | E7 | % | % | % |
 | Bb | % | A7 | /(A G F E) |
+
 | D- | % | % | % |
 | E7 | % | G- | % |
 | A7 | % | D- | % |
@@ -57,13 +58,14 @@ This piece is too complex. See Full form.
 | G- | C | F |1 % :|
 |2 A7 /(G F E) |
 
-[Verse 2]
+[Verse 3]
 | D- | % | % | % |
 | D- | % | % | % |
 | E7 | % | % | % |
 | A7 | % | % | % |
 | D- | % | % | % |
 | Bb | % | A7 | /(A G F E) |
+
 | D- | % | % | % |
 | E7 | % | G- | % |
 | A7 | % | D- | % |
@@ -73,6 +75,7 @@ This piece is too complex. See Full form.
 | E7 | % | % | % |
 | E7 | % | A7 | % |
 (Break) Panno Krysiu!
+
 | D- | % | % | % |
 | D- | % | % | % |
 | E7 | % | % | % |
@@ -102,7 +105,9 @@ This piece is too comples. See Full lyrics.
 ### Full lyrics
 
 ```text
-Za oknami noc, w górach śniegu moc okrywa wszystko
+[Intro]
+
+[V1] Za oknami noc, w górach śniegu moc okrywa wszystko
 czort jedyny wie, co rzuciło mnie w to uzdrowisko.
 Na parkiecie szum, wczasowiczów tłum spleciony gęsto,
 siedzę tutaj sam, a przed sobą mam orkiestrę męską.
@@ -111,12 +116,12 @@ czuła struna drgnie i rozpoczną się góralskie tańce.
 Jest górala wart taniec, gdy masz fart, gdy dziewczę kwili.
 Z basem typ to wie, więc szykuje się i już po chwili:
 
-Jesteśmy na wczasach w tych góralskich lasach,
+[C] Jesteśmy na wczasach w tych góralskich lasach,
 w promieniach słonecznych opalamy się.
 Orkiestra przygrywa skocznego béguine'a,
 to nie twoja wina, że podrywam cię...
 
-Ta panna Krysia, panna Krysia
+[V2] Ta panna Krysia, panna Krysia
 królowała na turnusach nie od dzisiaj,
 a każdego roku właśnie o tej porze
 przyjeżdżała tu, do pensjonatu „Orzeł".
@@ -128,12 +133,12 @@ czort jedyny wie, że basista też się kocha w Krysi...
 Wie jedyny czort, co oznacza to, by wciąż od nowa
 brać kontrabas i, tłumiąc pożar krwi, tak anonsować:
 
-Jesteśmy na wczasach w tych góralskich lasach,
+[C] Jesteśmy na wczasach w tych góralskich lasach,
 w promieniach słonecznych opalamy się.
 Orkiestra przygrywa skocznego béguine'a,
 to nie twoja wina, że podrywam cię...
 
-A panna Krysia, panna Krysia
+[V3] A panna Krysia, panna Krysia
 z panem Mietkiem, co się tuż przed chwilą przysiadł,
 przemierzała wzdłuż i wszerz parkietu przestrzeń,
 ale nigdy nie spojrzała ku orkiestrze,
