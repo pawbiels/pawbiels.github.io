@@ -16,21 +16,21 @@
 |: G | Gmaj7 | B- | C :|x2
 |: G (4. 4. 4) | % | C | % :|x2
 
-[Verse 1]
+[Verse 1] Gdy jestem przy tobie...
 |: G | G D | C | % :|x4
 
-[Chorus]
+[Chorus] I tylko nie ma miłości...
 | D (1) | -- | D (1) | -- |
 | D (4. 4. 4) | % | % | % |
 
 [Riff/NoVoc]
-[Verse 2]
-[Chorus]
+[Verse 2] I idę ulicą, i słyszę jak krzyczą...
+[Chorus] I tylko nie ma miłości...
 
-[Riff/Voc]
+[Break] Ona nie szuka poklasku...
 |: G | Gmaj7 | B- |1 C :|2 C (break) |
 
-[Bridge]
+[Bridge] Oddajcie ją!
 ( ~88 88 888 8~ ) 
 | G /(G F# E D) |  % /(D C B B)  |
 | B /(B      C) |1 C /(C     G) :|2 C |
@@ -78,12 +78,12 @@ I tylko nie ma miłości.
 I tylko nie ma miłości.
 I tylko nie ma miłości.
 
-[R] Ona nie szuka poklasku
+[Break] Ona nie szuka poklasku
 i gniewem nie unosi się.
 Ona wszystkiemu wierzy,
 przetrzyma wszystko, ciebie i mnie.
 
-[B] Oddajcie ją!
+[Bridge] Oddajcie ją!
 Oddajcie miłość i wiarę w nią!
 Oddajcie ją!
 Oddajcie miłość i wiarę w nią!
