@@ -1,5 +1,5 @@
 # Jesteśmy na wczasach
-[Short form](#short-form) | [Full form](#full-form) | [Short lyrics](#short-lyrics) | [Full lyrics](#full-lyrics)
+[Chords](#chords) | [Lyrics](#lyrics) | [Legendary Pete Sheetz](#legendary-pete-sheetz)
 
 | | |
 |-|-|
@@ -10,15 +10,7 @@
 |Tempo|216 BPM|
 |Key|D- (original)|
 
-## Form
-
-### Short form
-
-```text
-This piece is too complex. See Full form.
-```
-
-### Full form
+### Chords
 
 ```text
 [Intro]
@@ -36,8 +28,7 @@ This piece is too complex. See Full form.
 
 [Chorus]
 |: F | % | % | % |
-| G- | C | F |1 % :|
-|2 A7 /(G F E) |
+| G- | C | F |1 F :|2 A7 /(G F E) |
 
 [Verse 2]
 | D- | % | % | % |
@@ -55,8 +46,7 @@ This piece is too complex. See Full form.
 
 [Chorus]
 |: F | % | % | % |
-| G- | C | F |1 % :|
-|2 A7 /(G F E) |
+| G- | C | F |1 F :|2 A7 /(G F E) |
 
 [Verse 3]
 | D- | % | % | % |
@@ -89,24 +79,17 @@ This piece is too complex. See Full form.
 
 [Outro]
 |: D- | % | E7 | % |
-| G- | A7 | D- /E | /(F E) :|
+| G- | A7 | D- /E | /(F E) :|x3
+
 | D | % | G- | % |
-| Bb | A7 | D- A7 | D- ||
+| E7b9 (G# B D F) | A7b9 (G Bb C# E) | 
+| D- (C# D) | D- ||
 
 ```
-## Lyrics
 
-### Short lyrics
-
-```text
-This piece is too comples. See Full lyrics.
-```
-
-### Full lyrics
+### Lyrics
 
 ```text
-[Intro]
-
 [V1] Za oknami noc, w górach śniegu moc okrywa wszystko
 czort jedyny wie, co rzuciło mnie w to uzdrowisko.
 Na parkiecie szum, wczasowiczów tłum spleciony gęsto,
@@ -160,3 +143,9 @@ gdyby wreszcie się basista nie obudził...
 Bo miewamy często głupie sny,
 ale potem się budzimy i...
 ```
+
+### Legendary Pete Sheetz
+
+![Page 1](./nawczasach_p1.jpg)
+
+![Page 2](./nawczasach_p2.jpg)
