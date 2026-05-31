@@ -146,6 +146,5 @@ ale potem się budzimy i...
 
 ### Legendary Pete Sheetz
 
-![Page 1](./nawczasach_p1.jpg)
-
-![Page 2](./nawczasach_p2.jpg)
+![Page 1](nawczasach_p1.jpg)
+![Page 2](nawczasach_p2.jpg)
