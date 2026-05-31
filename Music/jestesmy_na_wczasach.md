@@ -1,5 +1,5 @@
 # Jesteśmy na wczasach
-[Powrót](../index.html) | [Chords](#chords) | [Lyrics](#lyrics) | [Legendary Pete Sheetz](#legendary-pete-sheetz)
+[Powrót](index.html) | [Chords](#chords) | [Lyrics](#lyrics) | [Legendary Pete Sheetz](#legendary-pete-sheetz)
 
 | | |
 |-|-|

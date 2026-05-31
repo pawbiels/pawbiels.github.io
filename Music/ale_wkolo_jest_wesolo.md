@@ -1,5 +1,5 @@
 # Ale wkoło jest wesoło
-[Powrót](../index.html) | 
+[Powrót](index.html) | [Chords](#chords) | [Lyrics](#lyrics) |
 
 | | |
 |-|-|
@@ -9,7 +9,7 @@
 | Tempo | 176 BPM |
 | Key | B- (original) |
 
-# Form
+### Chords
 
 ```text
 [Intro]
