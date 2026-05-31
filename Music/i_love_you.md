@@ -17,13 +17,13 @@
 [Intro] (guitar)
 |:   G            C  D   |           C           :|x2
 
-[Break] (instrumental)
+[Break/NoVoc]
 |:   G            D      |    C             Bb   :|x4
 
 [Verse 1] Olewam rząd, mandaty drogowe...
 |:   G            C  D   |           C           :|x4
 
-[Break] (instrumental)
+[Break/NoVoc]
 |:   G            D      |    C             Bb   :|x4
 
 [Verse 2] Ludzie mówią, że jestem pijakiem...
@@ -32,17 +32,13 @@
 [Chorus] Oh yeah! Chcę Ci powiedzieć...
 |:   G            C  D   |           C           :|x4
 
-[Break] (instrumental)
-
+[Break]
 [Verse 3] Pozytywnego coś, pozytywnego coś...
-
-[Break] (instrumental)
-
+[Break]
 [Verse 4] Olewam złączonych w organizacjach...
-
 [Chorus] Oh yeah! Chcę Ci powiedzieć...
 
-[Break quiet] (instrumental)
+[Break/Quiet/NoVoc]
 |:          G            |     C          Bb     :|x2
 
 [Verse 5] W moim śmietniku obgryzłem wszystkie kości...

@@ -17,7 +17,7 @@
 |: D- | % | E7 | % |
 | G- | A7 | D- /E | /(F E) :|x2
 
-[Verse 1]
+[Verse 1] Za oknami noc...
 |: D- | % | % | % |
 | E7 | % | G- | % |
 | A7 | % | D- | % |
@@ -26,16 +26,17 @@
 | E7 | % | A7 | % :|x2
 (break) | -- | -- |
 
-[Chorus]
+[Chorus] Jesteśmy na wczasach...
 |: F | % | % | % |
 | G- | C | F |1 F :|2 A7 /(G F E) |
 
-[Verse 2]
+[Verse 2] Ta panna Krysia...
 | D- | % | % | % |
 | D- | % | % | % |
 | E7 | % | % | % |
 | Bb | % | A7 | /(A G F E) |
 
+Za oknami noc...
 | D- | % | % | % |
 | E7 | % | G- | % |
 | A7 | % | D- | % |
@@ -44,11 +45,11 @@
 | E7 | % | A7 | % |
 (break) | -- | -- |
 
-[Chorus]
+[Chorus] Jesteśmy na wczasach...
 |: F | % | % | % |
 | G- | C | F |1 F :|2 A7 /(G F E) |
 
-[Verse 3]
+[Verse 3] A panna Krysia...
 | D- | % | % | % |
 | D- | % | % | % |
 | E7 | % | % | % |
@@ -56,16 +57,18 @@
 | D- | % | % | % |
 | Bb | % | A7 | /(A G F E) |
 
+Za oknami noc...
 | D- | % | % | % |
 | E7 | % | G- | % |
 | A7 | % | D- | % |
 | D | % | % | /F# |
 | G- | % | E7 | % |
-| E7 | % | % | % |
-| E7 | % | % | % |
-| E7 | % | A7 | % |
+| E7 | % | % | % | ... a on rzuca bas
+| E7 | % | % | % | ... i ma w oczach blask
+| E7 | % | A7 | % | ... i głośno woła
 (Break) Panno Krysiu!
 
+Co to się działo
 | D- | % | % | % |
 | D- | % | % | % |
 | E7 | % | % | % |
