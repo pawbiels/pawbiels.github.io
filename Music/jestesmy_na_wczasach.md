@@ -1,5 +1,5 @@
 # Jesteśmy na wczasach
-[Chords](#chords) | [Lyrics](#lyrics) | [Legendary Pete Sheetz](#legendary-pete-sheetz)
+[Powrót](../index.html) | [Chords](#chords) | [Lyrics](#lyrics) | [Legendary Pete Sheetz](#legendary-pete-sheetz)
 
 | | |
 |-|-|
@@ -15,7 +15,7 @@
 ```text
 [Intro]
 |: D- | % | E7 | % |
-| G- | A7 | D- /E | /(F E) :|
+| G- | A7 | D- /E | /(F E) :|x2
 
 [Verse 1]
 |: D- | % | % | % |
@@ -23,7 +23,7 @@
 | A7 | % | D- | % |
 | D | % | % | /F# |
 | G- | % | E7 | % |
-| E7 | % | A7 | % :|
+| E7 | % | A7 | % :|x2
 (break) | -- | -- |
 
 [Chorus]

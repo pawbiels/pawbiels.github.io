@@ -1,5 +1,5 @@
 # Niemiłość
-[Chords](#chords) | [Lyrics](#lyrics) | [Legendary Pete Sheetz](#legendary-pete-sheetz)
+[Powrót](../index.html) | [Chords](#chords) | [Lyrics](#lyrics) | [Legendary Pete Sheetz](#legendary-pete-sheetz)
 
 | | |
 |-|-|
@@ -13,8 +13,8 @@
 
 ```text
 [Intro/Riff]
-|: G | Gmaj7 | B- | C :|
-|: G (4. 4. 4) | % | C | % :|
+|: G | Gmaj7 | B- | C :|x2
+|: G (4. 4. 4) | % | C | % :|x2
 
 [Verse 1]
 |: G | G D | C | % :|x4
@@ -34,11 +34,11 @@
 ( ~88 88 888 8~ ) 
 | G /(G F# E D) |  % /(D C B B)  |
 | B /(B      C) |1 C /(C     G) :|2 C |
-(riff) |: G | Gmaj7 | B- | C :|
+(riff) |: G | Gmaj7 | B- | C :|x2
 
 [Kulminacja]
-|: D (4. 4. 4) | E- | F# (4.) G (4. 4) |:
-(riff) |: G | Gmaj7 | B- | C :| (fadeout)
+|: D (4. 4. 4) | E- | F# (4.) G (4. 4) :|
+(riff) |: G | Gmaj7 | B- | C :|x2 (fadeout)
 (piano) | Gmaj7 (fermata) |
 
 ```
@@ -96,5 +96,4 @@ Oddajcie miłość i wiarę w nią!
 ### Legendary Pete Sheetz
 
 ![Page 1](./niemilosc_p1.jpg)
-
 ![Page 2](./niemilosc_p2.jpg)
