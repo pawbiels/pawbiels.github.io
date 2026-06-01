@@ -42,7 +42,8 @@ Za oknami noc...
 | A7 | % | D- | % |
 | D | % | % | /F# |
 | G- | % | E7 | % |
-| E7 | % | A7 | % |
+| E7 | % | % | % |
+| A7 | % |
 (break) | -- | -- |
 
 [Chorus] Jesteśmy na wczasach...
@@ -72,13 +73,13 @@ Co to się działo
 | D- | % | % | % |
 | D- | % | % | % |
 | E7 | % | % | % |
-| A7 | % | % | % |
+| A7 | % | % | /(A G F E) |
 | D- | % | % | % |
-| Bb | % | A7 | /(A G F E) |
+| Bb | % | A7 | % |
 
 [Chorus NO VOC]
-| F | % | % | % |
-| G- | C | F | % |
+|: F | % | % | % |
+| G- | C | F | % :|
 
 [Outro]
 |: D- | % | E7 | % |

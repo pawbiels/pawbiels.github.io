@@ -37,7 +37,7 @@
 (riff) |: G | Gmaj7 | B- | C :|x2
 
 [Kulminacja]
-|: D (4. 4. 4) | E- | F# (4.) G (4. 4) :|
+|: D (4. 4. 4) | % | E-9 | D/F# (4.) Dsus4/G (4. 4) :|x2
 (riff) |: G | Gmaj7 | B- | C :|x2 (fadeout)
 (piano) | Gmaj7 (fermata) |
 
