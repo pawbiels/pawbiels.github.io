@@ -7,39 +7,39 @@
 | Artist | Organek |
 | Time signature | 4/4 |
 | Tempo | 108 BPM |
-| Key | E (original A) |
+| Key | G (original A) |
 
 ### Chords
 
 ```text
 [Intro/Riff]
-|: E | Emaj7 | G#- | A :|x2
-|: E(4. 4. 4) | % | A | % :|x2
+|: G | Gmaj7 | B- | C :|x2
+|: G (4. 4. 4) | % | C | % :|x2
 
 [Verse 1] Gdy jestem przy tobie...
-|: E | E B | A | % :|x4
+|: G | G D | C | % :|x4
 
 [Chorus] I tylko nie ma miłości...
-| B (1) | -- | B (1) | -- |
-| B (4. 4. 4) | % | % | % |
+| D (1) | -- | D (1) | -- |
+| D (4. 4. 4) | % | % | % |
 
 [Riff/NoVoc]
 [Verse 2] I idę ulicą, i słyszę jak krzyczą...
 [Chorus] I tylko nie ma miłości...
 
 [Break] Ona nie szuka poklasku...
-|: E | Emaj7 | G#- |1 A :|2 A (break) |
+|: G | Gmaj7 | B- |1 C :|2 C (break) |
 
 [Bridge] Oddajcie ją!
 ( ~88 88 888 8~ ) 
-| E /(E D# C# B) |  % /(B A G#)  |
-| G# /(G# _ A) |1 A /(A _ E) :|2 A |
-(riff) |: E | Emaj7 | G#- | A :|x2
+| G /(G F# E D) |  % /(D C B B)  |
+| B /(B      C) |1 C /(C     G) :|2 C |
+(riff) |: G | Gmaj7 | B- | C :|x2
 
 [Kulminacja]
-|: B (4. 4. 4) | % | C#-9 | B/D# (4.) Bsus4/E (4. 4) :|x2
-(riff) |: E | Emaj7 | G#- | A :|x2 (fadeout)
-(piano) | Emaj7 (fermata) |
+|: D (4. 4. 4) | % | E-9 | D/F# (4.) Dsus4/G (4. 4) :|x2
+(riff) |: G | Gmaj7 | B- | C :|x2 (fadeout)
+(piano) | Gmaj7 (fermata) |
 
 ```
 

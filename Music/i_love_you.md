@@ -9,6 +9,8 @@
 | Tempo | 80 BPM |
 | Key | G (original) |
 
+![Nuty SAX](./iloveyou-sax.pdf)
+
 ## Form
 
 ### Chords
