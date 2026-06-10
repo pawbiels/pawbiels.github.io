@@ -5,6 +5,7 @@
 |-|-|
 | Title | Niemiłość |
 | Artist | Organek |
+| Year | 2019 |
 | Time signature | 4/4 |
 | Tempo | 108 BPM |
 | Key | E (original A) |

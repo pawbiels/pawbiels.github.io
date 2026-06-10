@@ -3,7 +3,7 @@
 \header {
   title = "Niemiłość"
   subtitle = "Tonacja E (sax Gb)"
-  composer = "Organek"
+  composer = "Organek (2019)"
 }
 
 global = {

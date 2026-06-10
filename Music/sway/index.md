@@ -5,7 +5,7 @@
 |-|-|
 | Title | Sway |
 | Artist | Peter Cincotti |
-| Writer | Luis Demetrio and Pablo Beltrán Ruiz (as *¿Quién será?*) |
+| Writer | Luis Demetrio, Pablo Beltrán Ruiz (as *¿Quién será?*) |
 | Year | 2003 (original 1953)
 | Time signature | 4/4 |
 | Tempo | 100 BPM |

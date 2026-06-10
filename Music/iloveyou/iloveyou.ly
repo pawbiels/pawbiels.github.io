@@ -2,9 +2,8 @@
 
 \header {
   title = "I love you"
-  subtitle = ""
-  composer = "T.Love"
-  %instrument = "Czarek Sax"
+  subtitle = "T.Love"
+  composer = "Jacek Perkowski (1994)"
 }
 
 global = {

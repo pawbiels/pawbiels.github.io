@@ -4,7 +4,8 @@
 
 \header {
   title = "Sobie i Wam"
-  composer = "Męskie Granie Orkiestra"
+  subtitle = "Męskie Granie"
+  composer = "Katarzyna Nosowska, Marcin Macuk (2019)"
 }
 
 

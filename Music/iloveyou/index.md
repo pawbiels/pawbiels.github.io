@@ -5,6 +5,7 @@
 |-|-|
 | Title | I love you! |
 | Artist | T.Love |
+| Writer | Jacek Perkowski, Muniek Staszczyk (lyrics) |
 | Time signature | 4/4 |
 | Tempo | 80 BPM |
 | Key | G (original) |

@@ -4,7 +4,7 @@
 \header {
   title = "Sway (¿Quién será?)"
   subtitle = "a-moll"
-  composer = "Luis Demetrio and Pablo Beltrán Ruiz (1953)"
+  composer = "Luis Demetrio, Pablo Beltrán Ruiz (1953)"
   arranger = "arr. Peter Cincotti (2003)"
 }
 

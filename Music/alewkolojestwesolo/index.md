@@ -3,8 +3,10 @@
 
 | | |
 |-|-|
-| Title | Ale wkoło jest wesoło |
+| Title | Ale w koło jest wesoło |
 | Artist | Perfect |
+| Writer | Zbigniew Hołdys |
+| Year | 1981 |
 | Time signature | 4/4 |
 | Tempo | 176 BPM |
 | Key | B- (original) |
