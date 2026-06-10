@@ -10,3 +10,7 @@
 - [Niemiłość](./niemilosc/)
 - [Sobie i Wam](./sobieiwam/)
 - [Sway](./sway/)
+
+## O zespole
+
+![Charmols](charmols.jpg)
