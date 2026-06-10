@@ -1,4 +1,4 @@
-# Niemiłość
+# Sobie i Wam
 [**Return**](../)| [Chords](#chords) | [Lyrics](#lyrics) | [Legendary Pete Sheetz](#legendary-pete-sheetz)
 
 | | |
