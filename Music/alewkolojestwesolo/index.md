@@ -1,5 +1,5 @@
 # Ale wkoło jest wesoło
-| [Powrót](../) | [Chords](#chords) | [Lyrics](#lyrics) |
+[**Return**](../) | [Chords](#chords) | [Lyrics](#lyrics)
 
 | | |
 |-|-|

@@ -1,5 +1,5 @@
 # Niemiłość
-| [Powrót](../) | [Chords](#chords) | [Lyrics](#lyrics) |
+[**Return**](../) | [Chords](#chords) | [Lyrics](#lyrics)
 
 | | |
 |-|-|

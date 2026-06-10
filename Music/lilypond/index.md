@@ -1,5 +1,5 @@
 # Lilypond
-| [Powrót](index.html) |
+[**Return**](../)
 
 ## Instalacja
 

@@ -1,5 +1,5 @@
 # Niemiłość
-| [Powrót](../) | [Chords](#chords) | [Lyrics](#lyrics) | [Legendary Pete Sheetz](#legendary-pete-sheetz) |
+[**Return**](../) | [Chords](#chords) | [Lyrics](#lyrics) | [Legendary Pete Sheetz](#legendary-pete-sheetz)
 
 | | |
 |-|-|
