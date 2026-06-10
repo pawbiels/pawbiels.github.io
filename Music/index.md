@@ -4,10 +4,12 @@
 
 ## Kwity
 
-- [Ale wkoło jest wesoło](./alewkolojestwesolo)
-- [I love you!](./iloveyou)
-- [Jesteśmy na wczasach](./jestesmynawczasach)
-- [Niemiłość](niemilosc)
+- [Ale wkoło jest wesoło](./alewkolojestwesolo/)
+- [I love you!](./iloveyou/)
+- [Jesteśmy na wczasach](./jestesmynawczasach/)
+- [Niemiłość](./niemilosc/)
+- [Sobie i Wam](./sobieiwam/)
+- [Sway](./sway/)
 
 ## Nagrania
 
