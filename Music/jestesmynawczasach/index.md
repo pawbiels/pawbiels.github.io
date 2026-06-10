@@ -6,7 +6,7 @@
 | Title | Jesteśmy na wczasach |
 | Artist | Raz dwa trzy |
 | Writer | Janusz Sent, Wojciech Młynarski (lyrics) |
-| Year | 2077 (original 1962) |
+| Year | 2007 (original 1967) |
 | Time signature | 4/4 |
 | Tempo | 216 BPM |
 | Key | D- (original) |
