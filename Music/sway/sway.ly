@@ -2,9 +2,10 @@
 
 
 \header {
-  title = "Sway"
+  title = "Sway (¿Quién será?)"
   subtitle = "a-moll"
-  composer = "Peter Cincotti"
+  composer = "Luis Demetrio and Pablo Beltrán Ruiz (1953)"
+  arranger = "arr. Peter Cincotti (2003)"
 }
 
 
@@ -18,7 +19,7 @@ global = {
 chordsA = \chordmode {
   \repeat volta 2 {
     fis1:m7.5- | b1:7.9- | e1:m7 | 1
-    fis1:m7.5- | b1:7.9- | e1:m7 \alternative {
+    fis1:m7.5- | b1:7.9- | e1:m11 \alternative {
       \volta 1 { 1 }
       \volta 2 { 1 }
     }
@@ -36,9 +37,10 @@ chordsPart = \new ChordNames \transpose e a, \chordmode {
   \chordsA
   
   d1:7 | 1 | g1:maj7 | 1
-  b1:7 | 1 | e:m7 | 1
+  b1:7 | 1 | e:m11 | 1
 
-  \chordsA
+  fis1:m7.5- | b1:7.9- | e1:m7 | 1
+  fis1:m7.5- | b1:7.9- | e1:m11 | 1
 }
 
 
@@ -53,7 +55,7 @@ melodyNotes = \transpose e a \relative c'' {
   
   r4 b8 g b g b b
   
-  \sectionLabel "Verse"
+  \sectionLabel "Part A"
   \repeat volta 2 {
      \verseBody \alternative {
       \volta 1 { r4 b8 g b g b b }
@@ -63,7 +65,7 @@ melodyNotes = \transpose e a \relative c'' {
   
   \break
   
-  \sectionLabel "Chorus"
+  \sectionLabel "Part B"
   \tuplet 3/2 { fis4 fis g } a2 | r4 fis8 g \tuplet 3/2 { a4 b c }
   \tuplet 3/2 { d4 d b } d2 | r4 b8 c \tuplet 3/2 { d4 c b }
   \tuplet 3/2 { dis4 dis b } dis2 | r4 b8 cis \tuplet 3/2 { dis4 cis b }
@@ -71,13 +73,9 @@ melodyNotes = \transpose e a \relative c'' {
   
   \break
   
-  \sectionLabel "Verse"
-  \repeat volta 2 {
-    \verseBody \alternative {
-      \volta 1 { r4 b8 g b g b b }
-      \volta 2 { r1 }
-    }
-  }
+  \sectionLabel "Part A"
+  \verseBody | r1
+
   \fine
 }
 

@@ -9,6 +9,11 @@
 | Tempo | 108 BPM |
 | Key | E (original A) |
 
+### Sheet music
+
+- [Nuty SAX](./niemilosc-sax.pdf)
+- [Nuty całość](./niemilosc.pdf)
+
 ### Chords
 
 ```text
@@ -61,7 +66,7 @@ I tylko nie ma miłości...
 I tylko nie ma miłości...
 I tylko nie ma miłości tu...
 
-[Riff]
+[Riff] (no vocals)
 
 [V2] I idę ulicą, i słyszę jak krzyczą,
 że racja jest jedna, ponad wszystko, nie dwie.
@@ -94,6 +99,8 @@ Oddajcie miłość i wiarę w nią!
 ```
 
 ### Legendary Pete Sheetz
+
+Uwaga G-dur -- nieaktualne!
 
 ![Page 1](./niemilosc_p1.jpg)
 ![Page 2](./niemilosc_p2.jpg)

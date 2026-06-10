@@ -1,7 +1,7 @@
 # I love you!
-[Powrót](index.html) | [Chords](#chords) | [Lyrics](#lyrics)
+[**Return**](index.html) | [Chords](#chords) | [Lyrics](#lyrics)
 
-| | |
+| |  |
 |-|-|
 | Title | I love you! |
 | Artist | T.Love |
@@ -9,9 +9,10 @@
 | Tempo | 80 BPM |
 | Key | G (original) |
 
-[Nuty SAX](./iloveyou-sax.pdf) | [Nuty całość](./iloveyou.pdf)
+### Score
 
-## Form
+- [Nuty SAX](./iloveyou-sax.pdf)
+- [Nuty całość](./iloveyou.pdf)
 
 ### Chords
 

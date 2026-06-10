@@ -3,12 +3,13 @@
 
 | | |
 |-|-|
-|Title|Jesteśmy na wczasach|
-|Artist|Raz dwa trzy|
-|Writer|Wojciech Młynarski|
-|Time signature|4/4|
-|Tempo|216 BPM|
-|Key|D- (original)|
+| Title | Jesteśmy na wczasach |
+| Artist | Raz dwa trzy |
+| Writer | Janusz Sent, Wojciech Młynarski (lyrics) |
+| Year | 2077 (original 1962) |
+| Time signature | 4/4 |
+| Tempo | 216 BPM |
+| Key | D- (original) |
 
 ### Chords
 
@@ -63,9 +64,9 @@ Za oknami noc...
 | E7 | % | G- | % |
 | A7 | % | D- | % |
 | D | % | % | /F# |
-| G- | % | E7 | % |
-| E7 | % | % | % | ... a on rzuca bas
+| G- | % | E7 | % | ... a on rzuca bas
 | E7 | % | % | % | ... i ma w oczach blask
+| E7 | % | % | % |
 | E7 | % | A7 | % | ... i głośno woła
 (Break) Panno Krysiu!
 
