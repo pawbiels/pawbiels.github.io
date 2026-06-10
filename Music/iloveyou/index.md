@@ -1,5 +1,5 @@
 # I love you!
-[**Return**](index.html) | [Chords](#chords) | [Lyrics](#lyrics)
+[**Return**](../) | [Chords](#chords) | [Lyrics](#lyrics)
 
 | |  |
 |-|-|
