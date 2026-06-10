@@ -1,5 +1,5 @@
 # I love you!
-| [Powrót](index.html) | [Chords](#chords) | [Lyrics](#lyrics) |
+[Powrót](index.html) | [Chords](#chords) | [Lyrics](#lyrics)
 
 | | |
 |-|-|
@@ -9,7 +9,7 @@
 | Tempo | 80 BPM |
 | Key | G (original) |
 
-![Nuty SAX](./iloveyou-sax.pdf)
+[Nuty SAX](./iloveyou-sax.pdf) | [Nuty całość](./iloveyou.pdf)
 
 ## Form
 
