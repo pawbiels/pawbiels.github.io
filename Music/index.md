@@ -2,10 +2,10 @@
 
 ## Kwity
 
-- [Ale wkoło jest wesoło](./ale_wkolo_jest_wesolo.html)
-- [I love you!](./i_love_you.html)
-- [Jesteśmy na wczasach](./jestesmy_na_wczasach.html)
-- [Niemiłość](./niemilosc.html)
+- [Ale wkoło jest wesoło](./alewkolojestwesolo)
+- [I love you!](./iloveyou)
+- [Jesteśmy na wczasach](./jestesmynawczasach)
+- [Niemiłość](./niemilosc)
 
 ## Nagrania
 
