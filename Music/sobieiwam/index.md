@@ -48,7 +48,7 @@ Zbyt mało tu miejsca, żeby rozgościć się
 (Zbyt mało tu miejsca, żeby rozgościć się)
 Za mało wszystkiego, co można by mieć
 
-[C] x5
+[Chorus] x5
 ```
 
 ### Legendary Pete Sheetz
