@@ -34,7 +34,11 @@
 [Verse 2] Ta panna Krysia...
 | D- | % | % | % |
 | D- | % | % | % |
+| A7 | % | % | % |
 | E7 | % | % | % |
+
+Kuracjuszy rozmarzony wzrok...
+| D- | % | % | % |
 | Bb | % | A7 | /(A G F E) |
 
 Za oknami noc...
@@ -98,14 +102,14 @@ Co to się działo
 [V1] Za oknami noc, w górach śniegu moc okrywa wszystko
 czort jedyny wie, co rzuciło mnie w to uzdrowisko.
 Na parkiecie szum, wczasowiczów tłum spleciony gęsto,
-siedzę tutaj sam, a przed sobą mam orkiestrę męską.
+siedzę tutaj sam, a przed sobą mam orkiestrę damsko-męską.
 
 Typ, co szarpie bas wie, że nadszedł czas, gdy w kimś na bańce
-czuła struna drgnie i rozpoczną się góralskie tańce.
-Jest górala wart taniec, gdy masz fart, gdy dziewczę kwili.
+czuła struna drgnie i rozpoczną się kaszubskie tańce.
+Jest kaszuba wart taniec, gdy masz fart, gdy dziewczę kwili.
 Z basem typ to wie, więc szykuje się i już po chwili:
 
-[C] Jesteśmy na wczasach w tych góralskich lasach,
+[C] Jesteśmy na wczasach w tych kaszubskich lasach,
 w promieniach słonecznych opalamy się.
 Orkiestra przygrywa skocznego béguine'a,
 to nie twoja wina, że podrywam cię...
@@ -113,7 +117,7 @@ to nie twoja wina, że podrywam cię...
 [V2] Ta panna Krysia, panna Krysia
 królowała na turnusach nie od dzisiaj,
 a każdego roku właśnie o tej porze
-przyjeżdżała tu, do pensjonatu „Orzeł".
+przebywała tutaj w Polaszkowym Dworze.
 Kuracjuszy rozmarzony wzrok
 śledził wciąż jej każdy gest i krok.
 
@@ -122,10 +126,7 @@ czort jedyny wie, że basista też się kocha w Krysi...
 Wie jedyny czort, co oznacza to, by wciąż od nowa
 brać kontrabas i, tłumiąc pożar krwi, tak anonsować:
 
-[C] Jesteśmy na wczasach w tych góralskich lasach,
-w promieniach słonecznych opalamy się.
-Orkiestra przygrywa skocznego béguine'a,
-to nie twoja wina, że podrywam cię...
+[Chorus]
 
 [V3] A panna Krysia, panna Krysia
 z panem Mietkiem, co się tuż przed chwilą przysiadł,
@@ -141,7 +142,7 @@ a on rzuca bas [pauza 2 takty]
 i ma w oczach blask [pauza 2 takty]
 [pauza 4 takty]
 i głośno woła:
-"Panno Krysiu... kocham panią!... Wszystko..."
+"Panno Werciu, kocham panią. Wszystko!"
 
 Co to się działo, co się działo!
 Uzdrowiska pół ze śmiechu się skręcało

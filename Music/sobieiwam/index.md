@@ -19,6 +19,32 @@
 ### Chords
 
 ```text
+[Verse 1] 15 bars
+B- | % | % | %
+B- | % | % | %
+D | E- | B- | %
+D | E- | B-
+
+[Verse 2] 16 bars
+B- | % | % | %
+B- | % | % | %
+D | E- | B- | %
+D | E- | B- | %
+
+[Chorus 1]
+E- _ _ F#- | G _ _ A | B _ _ C# | D _ E- _
+E- _ _ F#- | G _ _ A | B | %
+
+[Verse 3] 15 bars
+B- | % | % | %
+B- | % | % | %
+D | E- | B- | %
+D | E- | B-
+
+[Chorus 2]
+G _ _ F#- | E- | B _ _ A | %
+G _ _ F#- | E- | B _ _ A | A _ D _
+
 
 ```
 

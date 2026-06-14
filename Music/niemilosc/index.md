@@ -38,8 +38,8 @@
 
 [Bridge] Oddajcie ją!
 ( ~88 88 888 8~ ) 
-| E /(E D# C# B) |  % /(B A G#)  |
-| G# /(G# _ A) |1 A /(A _ E) :|2 A |
+| E /(E D# C# B) | % /(B A G#)  |
+| G#- /(G# _ A) |1 A /(A _ E) :|2 A |
 (riff) |: E | Emaj7 | G#- | A :|x2
 
 [Kulminacja]
