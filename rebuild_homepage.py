@@ -45,15 +45,26 @@ for folder in folders:
         check=True,
     )
 
-default_msg = "rebuild_homepage.py autoupdate"
-msg = input("Github commit message: ") or default_msg
-
-git_cmds = (
-    ["git", "status"],
-    ["git", "add", "."],
-    ["git", "commit", "-m", msg],
-    ["git", "push", "origin", "main"],
+status = subprocess.run(
+    ["git", "status", "--porcelain"],
+    cwd=ROOT,
+    capture_output=True,
+    text=True,
+    check=True,
 )
 
-for cmd in git_cmds:
-    subprocess.run(cmd, cwd=ROOT, check=True)
+if not status.stdout:
+    print("No changes detected. Nothing to commit.")
+else:
+    default_msg = "rebuild_homepage.py autoupdate"
+    msg = input("Github commit message: ") or default_msg
+
+    git_cmds = (
+        ["git", "status"],
+        ["git", "add", "."],
+        ["git", "commit", "-m", msg],
+        ["git", "push", "origin", "main"],
+    )
+
+    for cmd in git_cmds:
+        subprocess.run(cmd, cwd=ROOT, check=True)
