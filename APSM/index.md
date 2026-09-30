@@ -1,3 +1,5 @@
+<main>
+
 # Advanced Problems of Structural Mechanics: **Project**
 
 ## General information
@@ -83,3 +85,5 @@ Progress is evaluated in person during the scheduled classes. The awarded points
 - Discord server invitation link: [group 2](https://discord.gg/NKZActYVUS).
 
 <!-- ## [Rules](./docs/ProjectRules.html) -->
+
+</main>
