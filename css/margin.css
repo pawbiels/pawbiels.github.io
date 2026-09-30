@@ -3,3 +3,7 @@ main {
   margin-inline: auto;
   padding: 3rem 1.5rem;
 }
+
+main > img {
+    margin-bottom: 2rem;
+}
