@@ -1,3 +1,5 @@
+<main>
+
 # Paweł Bielski
 
 <img src="https://pawbiels.github.io/profile.jpg" alt="Profile Photo" width="200" height="200">
@@ -27,3 +29,5 @@
 
 - [Mechanika ogólna: Ćwiczenia](./mo/)
 - [Matematyka 2: Projekt](./matematyka2/)
+
+</main>
