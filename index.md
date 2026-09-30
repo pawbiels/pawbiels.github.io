@@ -2,7 +2,7 @@
 
 <img src="https://pawbiels.github.io/profile.jpg" alt="Profile Photo" width="200" height="200">
 
-[Politechnika Gdańska](https://wimio.pg.edu.pl/) / [Polski Rejestr Statków](https://prs.pl/rd/)
+[Politechnika Gdańska](https://wimio.pg.edu.pl/) /| [Polski Rejestr Statków](https://prs.pl/rd/)
 
 ## Kontakt
 
@@ -16,7 +16,14 @@
 |Scopus|[https://www.scopus.com/authid/detail.uri?authorId=7801584056](https://www.scopus.com/authid/detail.uri?authorId=7801584056)|
 |ResearchGate|[https://www.researchgate.net/profile/Pawel-Bielski](https://www.researchgate.net/profile/Pawel-Bielski)
 
-## Przedmioty 2025/26
+## Przedmioty w roku akademickim 2026/27
 
-- [Mechanika Ogólna: Ćwiczenia](./MO/)
-- [Matematyka 2: Projekt](./Matematyka2/)
+### Semestr zimowy
+
+- [Wytrzymałość materiałów: Ćwiczenia](./wm/)
+- [Advanced Problems of Structural Mechanics: Project](./apsm/)
+
+### Semestr letni
+
+- [Mechanika ogólna: Ćwiczenia](./mo/)
+- [Matematyka 2: Projekt](./matematyka2/)
