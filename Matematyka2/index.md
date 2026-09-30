@@ -1,3 +1,5 @@
+<main>
+
 # Matematyka II: **Projekt**
 
 <img src="https://pawbiels.github.io/profile.jpg" alt="Profile Photo" width="200" height="200">
@@ -25,3 +27,5 @@ Waga projektu w skali przedmiotu wynosi 10/100 punktów. Pojedyncze zadanie jest
 ## Oprogramowanie
 
 Pracujemy w programie [Matlab](https://mathworks.com). Po wejściu na stronę wybieramy *sign in* -> *Create account* i posługujemy się swoim adresem politechnicznym `sxxxxxx@student.pg.edu.pl`. Jako rolę wybieramy *student*, dyscyplinę: *mechanical engineering*, a poziom studiów: *undergraduate*. Po zalogowaniu mamy dostęp do Matlaba w chmurze poprzez wybranie *Matlab* -> *open Matlab online*. Zachęcam do pracy w wersji chmurowej ze względu na dużą wagę instalatora i samego Matlaba na dysku.
+
+</main>

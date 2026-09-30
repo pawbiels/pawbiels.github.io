@@ -1,4 +1,4 @@
-<div class="markdown-body">
+<main>
 
 # Wytrzymałość materiałów: Ćwiczenia
 
@@ -76,4 +76,4 @@ Każde zadanie oceniane jest w skali od 0 do 5, gdzie ocena 5 odpowiada 100\%. W
     - związki konstytutywne między naprężeniami i odkształceniami w sprężystym materiale izotropowym.
 10. Przeliczanie odkształceń pomierzonych tensometrycznie na naprężenia.
 
-</div>
+</main>

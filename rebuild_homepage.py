@@ -15,8 +15,10 @@ subprocess.run(
     check=True,
 )
 
+folders = [ROOT] + [p for p in ROOT.rglob("*") if p.is_dir()]
+
 # Build every folder containing index.md
-for folder in ROOT.rglob("*"):
+for folder in folders:
     if not folder.is_dir():
         continue
 

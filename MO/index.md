@@ -1,3 +1,5 @@
+<main>
+
 # Mechanika ogólna: Ćwiczenia
 
 <img src="https://pawbiels.github.io/profile.jpg" alt="Profile Photo" width="200" height="200">
@@ -39,3 +41,5 @@ Każde zadanie oceniane jest w skali pięciopunktowej, a wynik sumaryczny podleg
 - [Hibbeler - Engineering Mechanics - Statics](../docs/Hibbeler_EngineeringMechanics_Statics_14ed_2016.pdf)
 - [Hibbeler - Engineering Mechanics - Dynamics](../docs/Hibbeler_EngineeringMechanics_Dynamics_14ed_2016.pdf)
 - [Beer - Vector Mechanics for Engineering - Statics](../docs/Beer_VectorMechanicsForEngineering_Statics.pdf)
+
+</main>
