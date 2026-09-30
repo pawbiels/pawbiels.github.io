@@ -56,11 +56,12 @@ status = subprocess.run(
 if not status.stdout:
     print("No changes detected. Nothing to commit.")
 else:
-    default_msg = "rebuild_homepage.py autoupdate"
+    subprocess.run(["git", "status"], cwd=ROOT, check=True)
+
+    default_msg = "autoupdated with rebuild_homepage.py"
     msg = input("Github commit message: ") or default_msg
 
     git_cmds = (
-        ["git", "status"],
         ["git", "add", "."],
         ["git", "commit", "-m", msg],
         ["git", "push", "origin", "main"],
