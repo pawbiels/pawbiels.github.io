@@ -1,3 +1,5 @@
+<div class="markdown-body">
+
 # Wytrzymałość materiałów: Ćwiczenia
 
 <img src="https://pawbiels.github.io/profile.jpg" alt="Profile Photo" width="200" height="200">
@@ -73,3 +75,5 @@ Każde zadanie oceniane jest w skali od 0 do 5, gdzie ocena 5 odpowiada 100\%. W
     - moduł Younga, współczynnik Poissona, moduł Kirchhoffa,
     - związki konstytutywne między naprężeniami i odkształceniami w sprężystym materiale izotropowym.
 10. Przeliczanie odkształceń pomierzonych tensometrycznie na naprężenia.
+
+</div>

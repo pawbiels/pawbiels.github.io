@@ -2,7 +2,7 @@
 
 <img src="https://pawbiels.github.io/profile.jpg" alt="Profile Photo" width="200" height="200">
 
-[Politechnika Gdańska](https://wimio.pg.edu.pl/) /| [Polski Rejestr Statków](https://prs.pl/rd/)
+[Politechnika Gdańska](https://wimio.pg.edu.pl/) | [Polski Rejestr Statków](https://prs.pl/rd/)
 
 ## Kontakt
 
