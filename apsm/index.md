@@ -2,6 +2,10 @@
 
 # Advanced Problems of Structural Mechanics: **Project**
 
+[**Home**](/)
+
+_This is an archive version of the course from a year before_
+
 ## General information
 
 - Author: Paweł Bielski, version 06.10.2025
