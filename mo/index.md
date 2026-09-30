@@ -6,7 +6,7 @@
 
 _To jest archiwalna wersja kursu sprzed roku_
 
-<img src="https://pawbiels.github.io/profile.jpg" alt="Profile Photo" width="300" height="300">
+<img src="/css/profile.jpg" alt="Profile Photo" width="200" height="200">
 
 Prowadzący: **Paweł Bielski**\
 Rok akademicki: **2025/26**\

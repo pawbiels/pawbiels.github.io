@@ -6,6 +6,8 @@
 
 _This is an archive version of the course from a year before_
 
+<img src="/css/profile.jpg" alt="Profile Photo" width="200" height="200">
+
 ## General information
 
 - Author: Paweł Bielski, version 06.10.2025
