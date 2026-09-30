@@ -2,7 +2,9 @@
 
 # Wytrzymałość materiałów: Ćwiczenia
 
-<img src="https://pawbiels.github.io/profile.jpg" alt="Profile Photo" width="200" height="200">
+[**Wstecz**](/)
+
+<img src="https://pawbiels.github.io/profile.jpg" alt="Profile Photo" width="300" height="300">
 
 Prowadzący: **Paweł Bielski**\
 Rok akademicki: **2026/27**\

@@ -44,3 +44,16 @@ for folder in folders:
         cwd=folder,
         check=True,
     )
+
+default_msg = "rebuild_homepage.py autoupdate"
+msg = input("Github commit message: ") or default_msg
+
+git_cmds = (
+    ["git", "status"],
+    ["git", "add", "."],
+    ["git", "commit", "-m", msg],
+    ["git", "push", "origin", "main"],
+)
+
+for cmd in git_cmds:
+    subprocess.run(cmd, cwd=ROOT, check=True)
