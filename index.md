@@ -14,13 +14,13 @@ pagetitle: "Paweł Bielski"
 
 [e-mail PG](mailto:pawbiels@pg.edu.pl) | [e-mail PRS](mailto:p.bielski@prs.pl) | [Discord](https://discord.com/users/760787726143717397)
 
-|Portal|Link|
-|-|-|
-|LinkedIn|[https://www.linkedin.com/in/pawbiels/](https://www.linkedin.com/in/pawbiels/)|
-|MostWiedzy|[https://mostwiedzy.pl/en/pawbiels](https://mostwiedzy.pl/en/pawbiels)|
-|ORCiD|[https://orcid.org/0000-0001-6018-8234](https://orcid.org/0000-0001-6018-8234)|
-|Scopus|[https://www.scopus.com/authid/detail.uri?authorId=7801584056](https://www.scopus.com/authid/detail.uri?authorId=7801584056)|
-|ResearchGate|[https://www.researchgate.net/profile/Pawel-Bielski](https://www.researchgate.net/profile/Pawel-Bielski)
+| Portal | Link |
+| - | - |
+| LinkedIn | [linkedin.com/in/pawbiels/](https://linkedin.com/in/pawbiels/) |
+| MostWiedzy | [mostwiedzy.pl/en/pawbiels](https://mostwiedzy.pl/en/pawbiels) |
+| ORCiD | [orcid.org/0000-0001-6018-8234](https://orcid.org/0000-0001-6018-8234) |
+| Scopus | [scopus.com/authid/detail.uri?authorId=7801584056](https://scopus.com/authid/detail.uri?authorId=7801584056) |
+| ResearchGate | [researchgate.net/profile/Pawel-Bielski](https://researchgate.net/profile/Pawel-Bielski) |
 
 ## Przedmioty w roku akademickim 2026/27
 
