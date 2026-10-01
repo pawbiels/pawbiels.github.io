@@ -7,3 +7,8 @@ main {
 main > img {
     margin-bottom: 1rem;
 }
+
+.profile_img {
+  width: 12rem;
+  height: 12rem;
+}

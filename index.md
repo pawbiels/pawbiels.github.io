@@ -1,6 +1,8 @@
 <main>
 
-<img src="/css/profile.jpg" alt="Profile Photo" width="400" height="400">
+<title>Paweł Bielski</title>
+
+<img class="profile_img" src="/css/profile.jpg" alt="Profile Photo">
 
 # Paweł Bielski
 
