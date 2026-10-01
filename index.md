@@ -1,6 +1,8 @@
-<main>
+---
+title: "Paweł Bielski"
+---
 
-<title>Paweł Bielski</title>
+<main>
 
 <img class="profile_img" src="/css/profile.jpg" alt="Profile Photo">
 

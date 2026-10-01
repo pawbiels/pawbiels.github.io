@@ -5,7 +5,7 @@ import os
 ROOT = Path(".").resolve()
 CSS_DIR = ROOT / "css"
 
-PICO_URL = "https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.classless.pumpkin.min.css"
+PICO_URL = "https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.classless.indigo.min.css"
 
 # Download global CSS once
 CSS_DIR.mkdir(exist_ok=True)

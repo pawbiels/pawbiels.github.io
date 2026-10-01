@@ -1,3 +1,5 @@
+<title>Wytrzymałość materiałów</title>
+
 <main>
 
 # Wytrzymałość materiałów: Ćwiczenia
