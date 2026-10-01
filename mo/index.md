@@ -1,12 +1,16 @@
+---
+title: "MO"
+---
+
 <main>
+
+<img class="profile_img" src="/css/profile.jpg" alt="Profile Photo">
 
 # Mechanika ogólna: Ćwiczenia
 
 [**Wstecz**](/)
 
 _To jest archiwalna wersja kursu sprzed roku_
-
-<img src="/css/profile.jpg" alt="Profile Photo" width="200" height="200">
 
 Prowadzący: **Paweł Bielski**\
 Rok akademicki: **2025/26**\

@@ -1,13 +1,16 @@
+---
+title: "Matematyka 2"
+---
+
 <main>
+
+<img class="profile_img" src="/css/profile.jpg" alt="Profile Photo">
 
 # Matematyka II: **Projekt**
 
 [**Wstecz**](/)
 
 _To jest archiwalna wersja kursu sprzed roku_
-
-
-<img src="/css/profile.jpg" alt="Profile Photo" width="200" height="200">
 
 Prowadzący: **Paweł Bielski**\
 Rok akademicki: **2025/26**\

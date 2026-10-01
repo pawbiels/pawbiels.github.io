@@ -1,5 +1,5 @@
 ---
-title: "Paweł Bielski"
+pagetitle: "Paweł Bielski"
 ---
 
 <main>
