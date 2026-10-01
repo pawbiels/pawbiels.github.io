@@ -1,5 +1,6 @@
-<title>Wytrzymałość materiałów</title>
-
+---
+pagetitle: "WM"
+---
 <main>
 
 <img class="profile_img" src="/css/profile.jpg" alt="Profile Photo">

@@ -1,5 +1,5 @@
 ---
-title: "MO"
+pagetitle: "MO"
 ---
 
 <main>

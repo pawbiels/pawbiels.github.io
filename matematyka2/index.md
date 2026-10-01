@@ -1,5 +1,5 @@
 ---
-title: "Matematyka 2"
+pagetitle: "Matematyka 2"
 ---
 
 <main>
