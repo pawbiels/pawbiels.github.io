@@ -1,5 +1,5 @@
 ---
-pagetitle: "MO"
+pagetitle: "Mechanika ogólna"
 ---
 
 <main>
