@@ -1,5 +1,5 @@
 ---
-pagetitle: "WM"
+pagetitle: "Wytrzymałość materiałów"
 ---
 <main>
 

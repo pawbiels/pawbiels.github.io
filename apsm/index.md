@@ -1,5 +1,5 @@
 ---
-pagetitle: "APSM"
+pagetitle: "Adv Probl of Struct Mech"
 ---
 
 <main>
