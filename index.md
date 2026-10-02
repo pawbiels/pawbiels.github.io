@@ -20,8 +20,8 @@ pagetitle: "Paweł Bielski"
 
 ### Semestr zimowy
 
-- [Wytrzymałość materiałów: Ćwiczenia](./wm/)
-- [Advanced Problems of Structural Mechanics: Project](./apsm/)
+- [Wytrzymałość Materiałów](./wm/): Ćwiczenia
+- [Advanced Problems of Structural Mechanics](./apsm/): Project
 
 ### Semestr letni
 

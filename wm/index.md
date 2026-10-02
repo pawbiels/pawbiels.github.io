@@ -1,11 +1,11 @@
 ---
-pagetitle: "Wytrzymałość materiałów"
+pagetitle: "Wytrzymałość Materiałów"
 ---
 <main>
 
 <img class="profile_img" src="/css/profile.jpg" alt="Profile Photo">
 
-# Wytrzymałość materiałów: Ćwiczenia
+# Wytrzymałość Materiałów: Ćwiczenia
 
 [**Wstecz**](/)
 

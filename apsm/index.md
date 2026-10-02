@@ -1,5 +1,5 @@
 ---
-pagetitle: "Adv Probl of Struct Mech"
+pagetitle: "Advanced Problems of Structural Mechanics"
 ---
 
 <main>
@@ -49,7 +49,7 @@ The plan may be modified as the project develops.
 
 For the mid-semester evaluation, an updated version of the plan should be presented and approved by the teacher. The mid-semester assessment is conducted as public presentations of progress and open discussions, lasting approximately 15 minutes per person.
 
-Both the mid-semester and final presentations must include:
+Both the mid-semester and final presentations should include:
 - an outline,
 - slide numbering along with the total slide count on each slide,
 - maximum of 2 figures per slide,
@@ -57,7 +57,7 @@ Both the mid-semester and final presentations must include:
 
 ### Final evaluation
 
-By the end of the semester, the concluding presentation should be prepared, along with a short report in the form of an extended conference abstract. The extended abstract should fit on two A4 pages, in 11-point font, approximately 500 words, plus one or two figures. The purpose of the abstract is to summarise the project briefly. An example of a conference abstract is available [here](./docs/abstract.pdf).
+By the end of the semester, the concluding presentation should be prepared, along with a short report in the form of an extended conference abstract. The extended abstract should fit on two to four A4 pages, in 11-point font, approximately 500-1000 words plus several figures. The purpose of the abstract is to summarise the project briefly. An example of a conference abstract is available [here](./docs/abstract.pdf).
 
 The final presentation should consist of:
 - a theoretical description of the problem,
@@ -66,7 +66,7 @@ The final presentation should consist of:
 - results and/or example computations,
 - a discussion on the applicability of the results or tool.
 
-The results will be publicly presented and discussed during the final meeting week. The maximum presentation time is 15 minutes per person. The final presentations will be held on January 26th (Monday), with January 28th as a secondary term if needed.
+The results will be publicly presented and discussed during the final meeting week. The maximum presentation time is 15 minutes per person. The final presentations will be held on January 19th (Tuesday), with January 22nd as a secondary term if needed.
 
 ## Grading system
 
@@ -80,6 +80,6 @@ Progress is evaluated in person during the scheduled classes. The awarded points
 
 
 
-_Paweł Bielski ver. 01.10.2026_
+_Paweł Bielski ver. 02.10.2026_
 
 </main>
