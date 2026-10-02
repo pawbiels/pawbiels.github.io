@@ -12,8 +12,6 @@ pagetitle: "Adv Probl of Struct Mech"
 
 [**Discord**](https://discord.gg/htZRXdnBc2) server | [eLearning](https://enauczanie.pg.edu.pl/2025/course/view.php?id=8219) course
 
-Zachęcam do komunikacji przez [**Discord**](https://discord.gg/htZRXdnBc2), gdzie odpowiadam najszybciej. We wtorki, czwartki i piątki poza zajęciami przebywam w pokoju [318](https://campus.pg.edu.pl/room/2353) budynku [30 WIMiO](https://campus.pg.edu.pl/building/31) (dawne WOiO). Na pocztę [pawbiels@pg.edu.pl](mailto:pawbiels@pg.edu.pl) odpowiadam zwykle w ciągu kilku dni.
-
 | Teacher | e-mail | room | building |
 | --- | --- | --- | --- |
 | Paweł Bielski | [pawbiels@pg.edu.pl](mailto:pawbiels@pg.edu.pl) | [room 318](https://campus.pg.edu.pl/room/2353) | [Institute of Naval Architecture](https://campus.pg.edu.pl/building/31) |
