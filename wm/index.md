@@ -9,13 +9,9 @@ pagetitle: "Wytrzymałość materiałów"
 
 [**Wstecz**](/)
 
-Prowadzący: **Paweł Bielski**\
-Rok akademicki: **2026/27**\
-Dotyczy grup: **OiKM C2, C3**
-
 ## Kontakt
 
-[**Discord**](https://discord.gg/htZRXdnBc2) | [e-mail](mailto:pawbiels@pg.edu.pl) | [eNauczanie](https://enauczanie.pg.edu.pl/2025/course/section.php?id=78976)
+serwer [**Discord**](https://discord.gg/htZRXdnBc2) | [e-mail](mailto:pawbiels@pg.edu.pl) | kurs [eNauczanie](https://enauczanie.pg.edu.pl/2025/course/section.php?id=78976)
 
 Zachęcam do komunikacji przez [**Discord**](https://discord.gg/htZRXdnBc2), gdzie odpowiadam najszybciej. We wtorki, czwartki i piątki poza zajęciami przebywam w pokoju [318](https://campus.pg.edu.pl/room/2353) budynku [30 WIMiO](https://campus.pg.edu.pl/building/31) (dawne WOiO). Na pocztę [pawbiels@pg.edu.pl](mailto:pawbiels@pg.edu.pl) odpowiadam zwykle w ciągu kilku dni.
 

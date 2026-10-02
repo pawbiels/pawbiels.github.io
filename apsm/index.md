@@ -10,7 +10,7 @@ pagetitle: "Adv Probl of Struct Mech"
 
 ## Contact
 
-[**Discord**](https://discord.gg/htZRXdnBc2) | [eLearning](https://enauczanie.pg.edu.pl/2025/course/view.php?id=8219)
+[**Discord**](https://discord.gg/htZRXdnBc2) server | [eLearning](https://enauczanie.pg.edu.pl/2025/course/view.php?id=8219) course
 
 Zachęcam do komunikacji przez [**Discord**](https://discord.gg/htZRXdnBc2), gdzie odpowiadam najszybciej. We wtorki, czwartki i piątki poza zajęciami przebywam w pokoju [318](https://campus.pg.edu.pl/room/2353) budynku [30 WIMiO](https://campus.pg.edu.pl/building/31) (dawne WOiO). Na pocztę [pawbiels@pg.edu.pl](mailto:pawbiels@pg.edu.pl) odpowiadam zwykle w ciągu kilku dni.
 
