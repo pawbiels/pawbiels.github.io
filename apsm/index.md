@@ -8,33 +8,31 @@ pagetitle: "Adv Probl of Struct Mech"
 
 [**Home**](/)
 
-_This is an archive version of the course from a year before_
+## Contact
 
-## General information
+[**Discord**](https://discord.gg/htZRXdnBc2) | [eLearning](https://enauczanie.pg.edu.pl/2025/course/view.php?id=8219)
 
-- Author: Paweł Bielski, version 06.10.2025
-- eLearning course: [Advanced problems of structural mechanics](https://enauczanie.pg.edu.pl/2025/course/view.php?id=684)
-- Field of study: Naval Architecture and Offshore Structures, Gdańsk University of Technology
-- Specialisation: Design of Ships and Ocean Engineering Equipment (WIMiO), second-cycle studies, Full-time studies, 2025/2026 - winter
+Zachęcam do komunikacji przez [**Discord**](https://discord.gg/htZRXdnBc2), gdzie odpowiadam najszybciej. We wtorki, czwartki i piątki poza zajęciami przebywam w pokoju [318](https://campus.pg.edu.pl/room/2353) budynku [30 WIMiO](https://campus.pg.edu.pl/building/31) (dawne WOiO). Na pocztę [pawbiels@pg.edu.pl](mailto:pawbiels@pg.edu.pl) odpowiadam zwykle w ciągu kilku dni.
+
+| Teacher | e-mail | room | building |
+| --- | --- | --- | --- |
+| Paweł Bielski | [pawbiels@pg.edu.pl](mailto:pawbiels@pg.edu.pl) | [room 318](https://campus.pg.edu.pl/room/2353) | [Institute of Naval Architecture](https://campus.pg.edu.pl/building/31) |
+| Krzysztof Wołoszyk | [krzwolos@pg.edu.pl](mailto:krzwolos@pg.edu.pl) | [room 323](https://campus.pg.edu.pl/room/2361) | [Institute of Naval Architecture](https://campus.pg.edu.pl/building/31) |
 
 ## Schedule of the meetings
 
-The project is conducted under the supervision of two teachers. Most meetings are held by Paweł Bielski, unless otherwise specified. Krzysztof Wołoszyk is the teacher responsible for the subject and the lectures.
+The project is conducted under the supervision of two teachers. The meetings are held either by Paweł Bielski (**PB**) or Krzysztof Wołoszyk (**KW**). Krzysztof Wołoszyk is the teacher responsible for the lectures and the subject as a whole.
 
-PB: Paweł Bielski\
-KW: Krzysztof Wołoszyk
-
-1. 06-10.10.2025, PB/**KW** --- Proposal and confirmation of individual project topics
-
-2. 20-24.10.2025, PB --- Working on the tasks
-
-3. 17-21.11.2025, **KW** --- Mid-semester evaluation of the project progress (25 pts)
-
-4. 01-05.12.2025, PB --- Working on the tasks
-
-5. 12-16.01.2026, PB --- Working on the tasks
-
-6. 26-30.01.2026, PB/**KW** --- Evaluation of the final project (25 pts), public presentations (20 pts)
+| Meeting | Date | Teacher | Topic |
+| --- | --- | --- | --- |
+| 1 | 5-9.10.2026 | PB | Proposal and formulation of individual project topics |
+| 2 | 19-23.10.2026 | KW | Consultation and confirmation of individual project topics |
+| 3 | 2-6.11.2026 | PB | Working on the projects |
+| 4 | 16-20.11.2026 | PB | Working on the projects |
+| 5 | 30.11-4.12.2026 | KW | Mid-semester evaluation of the projects |
+| 6 | 14-18.12.2026 | PB | Working on the projects |
+| 7 | 11-15.01.2027 | KW | Working on the projects |
+| 8 | 18-22.01.2027 | PB+KW | Final evaluation and presentation of the projects |
 
 ## Course design
 
@@ -45,7 +43,7 @@ The course is held in an open format. Each student is encouraged to propose an i
 During the first week, students are expected to present a project plan consisting of:
 - a conceptual description of the problem,
 - the chosen software tools,
-- criteria defining the final outcome.
+- definition of the expected outcome.
 
 The plan may be modified as the project develops. 
 
@@ -70,10 +68,7 @@ The final presentation should consist of:
 - results and/or example computations,
 - a discussion on the applicability of the results or tool.
 
-The results will be publicly presented and discussed during the final meeting week. The maximum presentation time is 15 minutes per person. The final presentations will be held:
-
-- on January 26th (Monday) for Group 1, with January 28th as a secondary term if needed,
-- on January 29th (Thursday) for Group 2, with January 30th as a secondary term if needed.
+The results will be publicly presented and discussed during the final meeting week. The maximum presentation time is 15 minutes per person. The final presentations will be held on January 26th (Monday), with January 28th as a secondary term if needed.
 
 ## Grading system
 
@@ -85,13 +80,8 @@ A maximum of 70 points can be obtained for the project part of the subject:
 
 Progress is evaluated in person during the scheduled classes. The awarded points reflect the student’s progress at the given date and are generally not subject to revision.
 
-## Contact information
 
-- Paweł Bielski: pawbiels@pg.edu.pl, room 318, Institute of Naval Architecture building,
-- Krzysztof Wołoszyk: krzwolos@pg.edu.pl, room 323, Institute of Naval Architecture building,
-- Discord server invitation link: [group 1](https://discord.gg/PWnuq4aY7v),
-- Discord server invitation link: [group 2](https://discord.gg/NKZActYVUS).
 
-<!-- ## [Rules](./docs/ProjectRules.html) -->
+_Paweł Bielski ver. 01.10.2026_
 
 </main>
