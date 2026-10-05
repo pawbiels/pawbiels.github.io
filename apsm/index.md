@@ -21,7 +21,7 @@ pagetitle: "Advanced Problems of Structural Mechanics"
 
 The project is conducted under the supervision of two teachers. The meetings are held either by Paweł Bielski (**PB**) or Krzysztof Wołoszyk (**KW**). Krzysztof Wołoszyk is the teacher responsible for the lectures and the subject as a whole.
 
-| Meeting | Date | Teacher | Topic |
+| Week | Dates | Teacher | Topic |
 | --- | --- | --- | --- |
 | 1 | 5-9.10.2026 | PB | Proposal and formulation of individual project topics |
 | 2 | 19-23.10.2026 | KW | Consultation and confirmation of individual project topics |
