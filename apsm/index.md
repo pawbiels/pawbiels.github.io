@@ -14,8 +14,8 @@ pagetitle: "Advanced Problems of Structural Mechanics"
 
 | Teacher | e-mail | room | building |
 | --- | --- | --- | --- |
-| Paweł Bielski | [pawbiels@pg.edu.pl](mailto:pawbiels@pg.edu.pl) | [room 318](https://campus.pg.edu.pl/room/2353) | [Institute of Naval Architecture](https://campus.pg.edu.pl/building/31) |
-| Krzysztof Wołoszyk | [krzwolos@pg.edu.pl](mailto:krzwolos@pg.edu.pl) | [room 323](https://campus.pg.edu.pl/room/2361) | [Institute of Naval Architecture](https://campus.pg.edu.pl/building/31) |
+| [Paweł Bielski](https://mostwiedzy.pl/en/pawel-bielski,701842-1) | [pawbiels@pg.edu.pl](mailto:pawbiels@pg.edu.pl) | [room 318](https://campus.pg.edu.pl/room/2353) | [Institute of Naval Architecture](https://campus.pg.edu.pl/building/31) |
+| [Krzysztof Wołoszyk](https://mostwiedzy.pl/en/krzysztof-woloszyk,859848-1) | [krzwolos@pg.edu.pl](mailto:krzwolos@pg.edu.pl) | [room 323](https://campus.pg.edu.pl/room/2361) | [Institute of Naval Architecture](https://campus.pg.edu.pl/building/31) |
 
 ## Schedule of the meetings
 
