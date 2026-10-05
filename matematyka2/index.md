@@ -6,7 +6,7 @@ pagetitle: "Matematyka 2"
 
 <img class="profile_img" src="/css/profile.jpg" alt="Profile Photo">
 
-# Matematyka II: **Projekt**
+# Matematyka II _Projekt_
 
 [**Wstecz**](/)
 

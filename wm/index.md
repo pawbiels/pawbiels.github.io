@@ -5,15 +5,15 @@ pagetitle: "Wytrzymałość Materiałów"
 
 <img class="profile_img" src="/css/profile.jpg" alt="Profile Photo">
 
-# Wytrzymałość Materiałów: Ćwiczenia
+# Wytrzymałość Materiałów _Ćwiczenia_
 
 [**Wstecz**](/)
 
 ## Kontakt
 
-serwer [**Discord**](https://discord.gg/htZRXdnBc2) | [e-mail](mailto:pawbiels@pg.edu.pl) | kurs [eNauczanie](https://enauczanie.pg.edu.pl/2025/course/section.php?id=78976)
+[Discord](https://discord.gg/htZRXdnBc2) | [e-mail](mailto:pawbiels@pg.edu.pl) | [eNauczanie](https://enauczanie.pg.edu.pl/2025/course/section.php?id=78976)
 
-Zachęcam do komunikacji przez [**Discord**](https://discord.gg/htZRXdnBc2), gdzie odpowiadam najszybciej. We wtorki, czwartki i piątki poza zajęciami przebywam w pokoju [318](https://campus.pg.edu.pl/room/2353) budynku [30 WIMiO](https://campus.pg.edu.pl/building/31) (dawne WOiO). Na pocztę [pawbiels@pg.edu.pl](mailto:pawbiels@pg.edu.pl) odpowiadam zwykle w ciągu kilku dni.
+Preferowaną formą komunikacji jest [Discord](https://discord.gg/htZRXdnBc2) oraz bezpośredni kontakt. We wtorki, czwartki i piątki poza zajęciami przebywam w [pokoju 318](https://campus.pg.edu.pl/room/2353) budynku [Instytutu Budowy Okrętów](https://campus.pg.edu.pl/building/31).
 
 ## Zaliczenie ćwiczeń
 
@@ -74,5 +74,7 @@ Każde zadanie oceniane jest w skali od 0 do 5, gdzie ocena 5 odpowiada 100\%. W
     - moduł Younga, współczynnik Poissona, moduł Kirchhoffa,
     - związki konstytutywne między naprężeniami i odkształceniami w sprężystym materiale izotropowym.
 10. Przeliczanie odkształceń pomierzonych tensometrycznie na naprężenia.
+
+_pawbiels ver 03.10.2026_
 
 </main>

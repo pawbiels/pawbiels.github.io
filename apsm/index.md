@@ -4,13 +4,13 @@ pagetitle: "Advanced Problems of Structural Mechanics"
 
 <main>
 
-# Advanced Problems of Structural Mechanics: **Project**
+# Advanced Problems of Structural Mechanics _Project_
 
 [**Home**](/)
 
 ## Contact
 
-[**Discord**](https://discord.gg/htZRXdnBc2) server | [eLearning](https://enauczanie.pg.edu.pl/2025/course/view.php?id=8219) course
+[Discord](https://discord.gg/htZRXdnBc2) | [eLearning](https://enauczanie.pg.edu.pl/2025/course/view.php?id=8219)
 
 | Teacher | e-mail | room | building |
 | --- | --- | --- | --- |

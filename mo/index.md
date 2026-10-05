@@ -6,7 +6,7 @@ pagetitle: "Mechanika ogólna"
 
 <img class="profile_img" src="/css/profile.jpg" alt="Profile Photo">
 
-# Mechanika ogólna: Ćwiczenia
+# Mechanika ogólna _Ćwiczenia_
 
 [**Wstecz**](/)
 

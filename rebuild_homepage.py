@@ -1,23 +1,19 @@
 import subprocess
 from pathlib import Path
-import os
 
 ROOT = Path(".").resolve()
 CSS_DIR = ROOT / "css"
 
 PICO_URL = "https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.classless.amber.min.css"
 
-# Download global CSS once
 CSS_DIR.mkdir(exist_ok=True)
-
+print('Downloading CSS file')
 subprocess.run(
     ["curl", "-L", "-o", str(CSS_DIR / "pico.css"), PICO_URL],
     check=True,
 )
 
 folders = [ROOT] + [p for p in ROOT.rglob("*") if p.is_dir()]
-
-# Build every folder containing index.md
 for folder in folders:
     if not folder.is_dir():
         continue
@@ -27,9 +23,7 @@ for folder in folders:
         continue
 
     html = folder / "index.html"
-
     print(f"Building {html}")
-
     subprocess.run(
         [
             "pandoc",
