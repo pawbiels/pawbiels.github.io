@@ -32,7 +32,7 @@ for folder in folders:
             "-t", "html",
             "--standalone",
             "--css=/css/pico.css",
-            "--css=/css/margin.css",
+            "--css=/css/custom.css",
             "-o", "index.html",
         ],
         cwd=folder,

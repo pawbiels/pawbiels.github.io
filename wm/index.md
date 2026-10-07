@@ -32,6 +32,8 @@ Każde zadanie oceniane jest w skali od 0 do 5, gdzie ocena 5 odpowiada 100\%. W
 
 ## Zakres tematyczny
 
+[Lista obowiązujących zadań](./zad/)
+
 ### Rozkład sił wewnętrznych w płaskich ramach statycznie wyznaczalnych
 
 1. Wykresy sił normalnych, sił tnących oraz momentów zginających w ramach sztywnych o trzech reakcjach podporowych:

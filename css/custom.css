@@ -1,0 +1,21 @@
+main {
+  max-width: 800px;
+  margin-inline: auto;
+  padding: 3rem 1.5rem;
+}
+
+main > img {
+    margin-bottom: 1rem;
+}
+
+.profile_img {
+  width: 20rem;
+  height: 20rem;
+}
+
+@media (prefers-color-scheme: dark) {
+    svg {
+        filter: invert(80%) hue-rotate(180deg);
+        background-color: transparent !important;
+    }
+}
