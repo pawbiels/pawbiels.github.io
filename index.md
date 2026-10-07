@@ -25,7 +25,7 @@ pagetitle: "Paweł Bielski"
 - [Wytrzymałość Materiałów](./wm/) _Ćwiczenia_
 - [Advanced Problems of Structural Mechanics](./apsm/) _Project_
 
-### Semestr letni
+### Semestr letni (archiwalny)
 
 - [Mechanika ogólna](./mo/) _Ćwiczenia_
 - [Matematyka 2](./matematyka2/) _Projekt_
