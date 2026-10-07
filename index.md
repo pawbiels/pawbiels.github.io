@@ -4,7 +4,7 @@ pagetitle: "Paweł Bielski"
 
 <main>
 
-<img class="profile" src="/css/profile.jpg" alt="Profile Photo">
+<img class="profile_img" src="/css/profile.jpg" alt="Profile Photo">
 
 # Paweł Bielski
 
@@ -16,7 +16,7 @@ pagetitle: "Paweł Bielski"
 
 [LinkedIn](https://linkedin.com/in/pawbiels/) | [MostWiedzy](https://mostwiedzy.pl/en/pawbiels) | [ORCiD](https://orcid.org/0000-0001-6018-8234) | [Scopus](https://scopus.com/authid/detail.uri?authorId=7801584056) | [ResearchGate](https://researchgate.net/profile/Pawel-Bielski)
 
-[_Secret_](./xxx/)
+[_Secret_](./ldrmls/)
 
 ## Przedmioty w roku akademickim 2026/27
 
