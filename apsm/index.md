@@ -8,9 +8,14 @@ pagetitle: "Advanced Problems of Structural Mechanics"
 
 [**Home**](/)
 
+_pawbiels ver 07.10.2026_
+
+
 ## Contact
 
 [Discord](https://discord.gg/htZRXdnBc2) | [eLearning](https://enauczanie.pg.edu.pl/2025/course/view.php?id=8219)
+
+[Discord](https://discord.gg/htZRXdnBc2) server is the preferred method of contact regarding the project
 
 | Teacher | e-mail | room | building |
 | --- | --- | --- | --- |
@@ -34,16 +39,39 @@ The project is conducted under the supervision of two teachers. The meetings are
 
 ## Course design
 
-### Initial idea
-
-The course is held in an open format. Each student is encouraged to propose an individual project topic. The project should involve either (1) solving an advanced structural mechanics problem, or (2) developing a custom computational tool. The topic is not limited to any specific software. The task may be addressed using an FEM program (e.g. Femap), a programming language (Python, MATLAB, Scilab), or any other appropriate tool.
+The course is held in an open format. Each student is encouraged to propose an individual project topic. The project should involve either (1) solving an advanced structural mechanics problem, or (2) developing a custom computational tool. The topic is not limited to any specific software. The task may be addressed using an FEM program (e.g. Femap, ANSYS, Calculix with PrePoMax), a programming language (Python, MATLAB, Scilab), or any other appropriate tool.
 
 During the first week, students are expected to present a project plan consisting of:
 - a conceptual description of the problem,
 - the chosen software tools,
 - definition of the expected outcome.
 
-The plan may be modified as the project develops. 
+The plan may be modified as the project develops.
+
+By **advanced** problems in **structural mechanics**, we mean problems involving one of the following:
+- material non-linearity (plasticity, fracture),
+- geometric non-linearity (large deformations),
+- dynamic loading,
+- thermal loading,
+- contact,
+- optimisation,
+- reliability assessment,
+- stochastic modelling,
+- other advanced concepts.
+
+An advanced problem is one that can be solved by different valid means and each carries slightly different results. Advanced problems inherently involve decision making by the person conducting the study.
+
+Examples:
+- non-linear buckling of a stiffened plate,
+- strength optimisation of an existing part,
+- modelling contact forces in a joint under tension,
+- stochastic modelling of a structural member with uncertainties,
+- ultimate load prediction involving plastic flow,
+- thermal stresses in a welded casing,
+- impact loading of a steel sheet,
+- many, many more!
+
+## Evaluation
 
 ### Mid-semester evaluation
 
@@ -77,9 +105,5 @@ A maximum of 70 points can be obtained for the project part of the subject:
 - **25 pts** --- Final presentation of the project results.
 
 Progress is evaluated in person during the scheduled classes. The awarded points reflect the student’s progress at the given date and are generally not subject to revision.
-
-
-
-_Paweł Bielski ver. 02.10.2026_
 
 </main>

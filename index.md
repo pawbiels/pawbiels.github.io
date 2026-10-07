@@ -16,6 +16,8 @@ pagetitle: "Paweł Bielski"
 
 [LinkedIn](https://linkedin.com/in/pawbiels/) | [MostWiedzy](https://mostwiedzy.pl/en/pawbiels) | [ORCiD](https://orcid.org/0000-0001-6018-8234) | [Scopus](https://scopus.com/authid/detail.uri?authorId=7801584056) | [ResearchGate](https://researchgate.net/profile/Pawel-Bielski)
 
+_LzShMTAuoKNtp2IupzAbVUEuM3ZtMTI2o3Eco25uoPO6M2yypab=_
+
 ## Przedmioty w roku akademickim 2026/27
 
 ### Semestr zimowy
