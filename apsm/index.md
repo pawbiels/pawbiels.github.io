@@ -48,6 +48,8 @@ During the first week, students are expected to present a project plan consistin
 
 The plan may be modified as the project develops.
 
+Simple problems are solved either correctly or incorrectly. Advanced problems can be solved in different valid ways, and each yields slightly different results. Advanced problems inherently involve decision-making by the person conducting the study, which influences the outcome.
+
 By **advanced** problems in **structural mechanics**, we mean problems involving one of the following:
 - material non-linearity (plasticity, fracture),
 - geometric non-linearity (large deformations),
@@ -59,9 +61,7 @@ By **advanced** problems in **structural mechanics**, we mean problems involving
 - stochastic modelling,
 - other advanced concepts.
 
-An advanced problem is one that can be solved by different valid means and each carries slightly different results. Advanced problems inherently involve decision making by the person conducting the study.
-
-Examples:
+Specific examples:
 - non-linear buckling of a stiffened plate,
 - strength optimisation of an existing part,
 - modelling contact forces in a joint under tension,
