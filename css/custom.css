@@ -14,7 +14,7 @@ main > img {
 }
 
 @media (prefers-color-scheme: dark) {
-    svg {
+    .svg {
         filter: invert(80%) hue-rotate(180deg);
         background-color: transparent !important;
     }

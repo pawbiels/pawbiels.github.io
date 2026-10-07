@@ -6,7 +6,7 @@ pagetitle: "Zadania"
 
 # Zadania WM
 
-[**Wstecz**](./)
+[**Wstecz**](../)
 
 _pawbiels ver 07.10.2026_
 
