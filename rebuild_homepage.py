@@ -3,6 +3,7 @@ from pathlib import Path
 
 ROOT = Path(".").resolve()
 CSS_DIR = ROOT / "css"
+PSY_DIR = ROOT / "psy"
 
 PICO_URL = "https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.classless.amber.min.css"
 
@@ -38,6 +39,28 @@ for folder in folders:
         cwd=folder,
         check=True,
     )
+
+if Path( PSY_DIR / "index.html" ).is_file():
+    print("Encrypting PSY...")
+    subprocess.run(
+        [
+            "npx",
+            "staticrypt",
+            "index.html",
+            "-d",
+            ".",
+            "-p",
+            "psiabanda",
+            "--short",
+        ],
+        cwd=PSY_DIR,
+        check=True,
+        shell=True,
+    )
+
+else:
+    print("PSY not detected")
+
 
 status = subprocess.run(
     ["git", "status", "--porcelain"],
