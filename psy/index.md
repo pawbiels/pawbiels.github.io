@@ -28,7 +28,6 @@ Bilety: [BiletyNa](https://biletyna.pl/spektakl/Teatr-Czwarte-Miasto/Miedzy-nami
   - [Od nocy do nocy](#od-nocy-do-nocy)
 - [Teksty](#teksty)
   - [Czasem chce się do człowieka](#czasem-chce-się-do-człowieka)
-- [Audio Test](#audio-test)
 
 ## Próby
 [home](#)
@@ -56,6 +55,103 @@ Bilety: [BiletyNa](https://biletyna.pl/spektakl/Teatr-Czwarte-Miasto/Miedzy-nami
 | Dziś prawdziwych cyganów już nie ma | [maryla](https://music.youtube.com/watch?v=M7MT17Cfxe0) [borys](https://music.youtube.com/watch?v=kMPNoYZANgE) [krawczyk](https://music.youtube.com/watch?v=wKa2z-FgmU0) |
 | Nie ma jak pompa | [maryla1](https://music.youtube.com/watch?v=AjFnzqFJWQI) [maryla2](https://music.youtube.com/watch?v=wrbu2vACNM8) [maryla3](https://music.youtube.com/watch?v=K7gMQdZV2zw) |
 | Od nocy do nocy | [kunicka1](https://music.youtube.com/watch?v=GDykG68TWX4) [kunicka2](https://music.youtube.com/watch?v=1x1gjtg_aEo) [mlynkova](https://music.youtube.com/watch?v=5ROtVRl0m5U) |
+
+<!--
+### Czasem chce się do człowieka
+
+Sława Przybylska
+
+<audio controls>
+  <source src="./Czasem chce się Przybylska.opus" type="audio/ogg">
+Your browser does not support the audio element.
+</audio>
+
+### Czy te oczy mogą kłamać
+
+Jan Pietrzak
+
+<audio controls>
+  <source src="./Oczy Pietrzak.opus" type="audio/ogg">
+Your browser does not support the audio element.
+</audio>
+
+Raz Dwa Trzy
+
+<audio controls>
+  <source src="./Oczy RazDwaTrzy.opus" type="audio/ogg">
+Your browser does not support the audio element.
+</audio>
+
+### Dziś prawdziwych cyganów już nie ma
+
+Maryla Rodowicz V1
+
+<audio controls>
+  <source src="./Cyganie Maryla v1.opus" type="audio/ogg">
+Your browser does not support the audio element.
+</audio>
+
+Maryla Rodowicz V2
+
+<audio controls>
+  <source src="./Cyganie Maryla v2.opus" type="audio/ogg">
+Your browser does not support the audio element.
+</audio>
+
+Krzysztof Krawczyk
+
+<audio controls>
+  <source src="./Cyganie Krawczyk.opus" type="audio/ogg">
+Your browser does not support the audio element.
+</audio>
+
+### Nie ma jak pompa
+
+Maryla Rodowicz V1
+
+<audio controls>
+  <source src="./Pompa v1.opus" type="audio/ogg">
+Your browser does not support the audio element.
+</audio>
+
+Maryla Rodowicz V2
+
+<audio controls>
+  <source src="./Pompa v2.opus" type="audio/ogg">
+Your browser does not support the audio element.
+</audio>
+
+Maryla Rodowicz V3
+
+<audio controls>
+  <source src="./Pompa v3.opus" type="audio/ogg">
+Your browser does not support the audio element.
+</audio>
+
+### Od nocy do nocy
+
+Halina Kunicka V1
+
+<audio controls>
+  <source src="./Od nocy Kunicka v1.opus" type="audio/ogg">
+Your browser does not support the audio element.
+</audio>
+
+Halina Kunicka V2
+
+<audio controls>
+  <source src="./Od nocy Kunicka v2.opus" type="audio/ogg">
+Your browser does not support the audio element.
+</audio>
+
+Halina Mlynkova
+
+<audio controls>
+  <source src="./Od nocy Mlynkova.opus" type="audio/ogg">
+Your browser does not support the audio element.
+</audio>
+
+-->
 
 ## Kwity
 
@@ -714,13 +810,5 @@ I otworzy tobie drzwi
 Kto chce też człowieka  
 Lepszy jest niż ty  
 I otworzy tobie drzwi
-
-## Audio Test
-
-<audio controls>
-  <source src="./Czasem chce się Przybylska.opus" type="audio/ogg">
-  <source src="./Czasem chce się Przybylska.mp4" type="audio/mp4">
-Your browser does not support the audio element.
-</audio>
 
 </main>
