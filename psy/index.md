@@ -11,20 +11,37 @@ pagetitle: "Psy"
 
 _ver 08.10.2026_
 
-# Między nami psami
+# Między nami psami<!-- omit in toc -->
 
-- [Między nami psami](#między-nami-psami)
-  - [Audio](#audio)
-  - [Kwity](#kwity)
-    - [Buty dwa](#buty-dwa)
-    - [Czy te oczy mogą kłamać](#czy-te-oczy-mogą-kłamać)
-    - [Dziś prawdziwych cyganów już nie ma](#dziś-prawdziwych-cyganów-już-nie-ma)
-    - [Nie ma jak pompa](#nie-ma-jak-pompa)
-    - [Od nocy do nocy](#od-nocy-do-nocy)
-  - [Teksty](#teksty)
-    - [Czasem chce się do człowieka](#czasem-chce-się-do-człowieka)
+Bilety: [BiletyNa](https://biletyna.pl/spektakl/Teatr-Czwarte-Miasto/Miedzy-nami-psami-Osiecka-wyszczekana) | [KupBilecik](https://kupbilecik.pl/pl/search?q=Mi%C4%99dzy+nami+psami.+Osiecka+wyszczekana&qds=&qde=&qc=&qcd=&s=&so=&f=&ft=&kb_ref=index&kb_ref_id=search&_gl=1*e832xu*_up*MQ..*_ga*MjEzNjYyNzA0MS4xNzkxMzc4MzA0*_ga_RJPJ7SRHEV*czE3OTEzNzgzMDMkbzEkZzAkdDE3OTEzNzgzMDMkajYwJGwwJGgwJGQ2RzdwVnM4U01TeFpxMi1yTml4T010d0NKWlRIWWkwTjZn)
+
+- [Próby](#próby)
+- [Audio](#audio)
+- [Kwity](#kwity)
+  - [Buty dwa](#buty-dwa)
+  - [Czy te oczy mogą kłamać](#czy-te-oczy-mogą-kłamać)
+  - [Dziś prawdziwych cyganów już nie ma](#dziś-prawdziwych-cyganów-już-nie-ma)
+  - [Nie ma jak pompa](#nie-ma-jak-pompa)
+  - [Od nocy do nocy](#od-nocy-do-nocy)
+- [Teksty](#teksty)
+  - [Czasem chce się do człowieka](#czasem-chce-się-do-człowieka)
+
+## Próby
+[home](#)
+
+| dzień | godzina | miejsce |
+| --- | --- | --- |
+| 3 listopada | do 17 | Atelier |
+| 4 listopada | do 17 | Atelier |
+| 10 listopada | do 17 | Atelier |
+| 13 listopada | 10-15 lub 12-17 | Cech Rzemiosł |
+| 17 listopada | 10-16 | Cech Rzemiosł |
+| 18 listopada | 10-15 | Cech Rzemiosł |
+| 20 listopada | cały dzień z przerwą | Atelier |
+| 21 listopada | od 12:30 | Atelier |
 
 ## Audio
+[home](#)
 
 | kawałek | link |
 | --- | --- |
