@@ -718,7 +718,8 @@ I otworzy tobie drzwi
 ## Audio Test
 
 <audio controls>
-  <source src="./Czasem chce się Przybylska.opus" type="audio/opus">
+  <source src="./Czasem chce się Przybylska.opus" type="audio/ogg">
+  <source src="./Czasem chce się Przybylska.mp4" type="audio/mp4">
 Your browser does not support the audio element.
 </audio>
 
