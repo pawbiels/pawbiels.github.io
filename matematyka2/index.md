@@ -1,6 +1,8 @@
 ---
 pagetitle: "Matematyka 2"
-favicon: "/css/favicon.ico"
+header-includes:
+  - |
+    <link rel="icon" href="/css/favicon.ico">
 ---
 
 <main>

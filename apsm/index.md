@@ -1,6 +1,8 @@
 ---
 pagetitle: "Advanced Problems of Structural Mechanics"
-favicon: "/css/favicon.ico"
+header-includes:
+  - |
+    <link rel="icon" href="/css/favicon.ico">
 ---
 
 <main>

@@ -1,6 +1,8 @@
 ---
 pagetitle: "Wytrzymałość Materiałów"
-favicon: '<link rel="icon" type="image/x-icon" href="/css/favicon.ico">'
+header-includes:
+  - |
+    <link rel="icon" href="/css/favicon.ico">
 ---
 <main>
 
