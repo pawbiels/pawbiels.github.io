@@ -42,6 +42,8 @@ for folder in folders:
 
 if Path( PSY_DIR / "index.html" ).is_file():
     print("Encrypting PSY...")
+    passfile = ROOT / ".." / "psy_passphrase.txt"
+    passphrase = passfile.read_text(encoding="utf-8")
     subprocess.run(
         [
             "npx.cmd",
@@ -50,7 +52,7 @@ if Path( PSY_DIR / "index.html" ).is_file():
             "-d",
             ".",
             "-p",
-            "psiabanda",
+            f"{passphrase}",
             "--short",
         ],
         cwd=PSY_DIR,
