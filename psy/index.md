@@ -349,7 +349,7 @@ e|-----|-----|-------|
 [home](#)
 
 Source:
-[`tabs.ultimate-guitar.com/tab/maryla-rodowicz/nie-ma-jak-pompa-chords-3712898`](`https://tabs.ultimate-guitar.com/tab/maryla-rodowicz/nie-ma-jak-pompa-chords-3712898`)
+[`tabs.ultimate-guitar.com/tab/maryla-rodowicz/nie-ma-jak-pompa-chords-3712898`](https://tabs.ultimate-guitar.com/tab/maryla-rodowicz/nie-ma-jak-pompa-chords-3712898)
 
 ```
 [Chords]
@@ -548,7 +548,7 @@ E|-----------8-7-|-6-5--4--3------|--------------|
 [home](#)
 
 Source:
-[`tabs.ultimate-guitar.com/tab/halina-kunicka/od-nocy-do-nocy-chords-3348317`](`https://tabs.ultimate-guitar.com/tab/halina-kunicka/od-nocy-do-nocy-chords-3348317`)
+[`tabs.ultimate-guitar.com/tab/halina-kunicka/od-nocy-do-nocy-chords-3348317`](https://tabs.ultimate-guitar.com/tab/halina-kunicka/od-nocy-do-nocy-chords-3348317)
 
 ```
 [Chords]
