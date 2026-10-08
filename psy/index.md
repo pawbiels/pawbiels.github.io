@@ -5,7 +5,7 @@ updated_at: 2026-09-16T18:32:57.212762Z
 pinned: false
 archived: false
 pagetitle: "Psy"
-favicon: '<link rel="icon" type="image/x-icon" href="/css/favicon.ico">'
+favicon: "/css/favicon.ico"
 ---
 
 <main>

@@ -1,5 +1,6 @@
 ---
 pagetitle: "Paweł Bielski"
+favicon: "/css/favicon.ico"
 ---
 
 <main>

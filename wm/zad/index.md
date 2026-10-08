@@ -1,5 +1,6 @@
 ---
 pagetitle: "Zadania"
+favicon: "/css/favicon.ico"
 ---
 
 <main>

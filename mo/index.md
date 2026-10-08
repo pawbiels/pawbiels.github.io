@@ -1,5 +1,6 @@
 ---
 pagetitle: "Mechanika ogólna"
+favicon: "/css/favicon.ico"
 ---
 
 <main>
