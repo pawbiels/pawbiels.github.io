@@ -44,7 +44,7 @@ if Path( PSY_DIR / "index.html" ).is_file():
     print("Encrypting PSY...")
     subprocess.run(
         [
-            "npx",
+            "npx.cmd",
             "staticrypt",
             "index.html",
             "-d",
@@ -55,7 +55,6 @@ if Path( PSY_DIR / "index.html" ).is_file():
         ],
         cwd=PSY_DIR,
         check=True,
-        shell=True,
     )
 
 else:

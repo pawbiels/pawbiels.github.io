@@ -7,6 +7,10 @@ archived: false
 pagetitle: "Psy"
 ---
 
+<main>
+
+_ver 08.10.2026_
+
 # Między nami psami
 
 - [Między nami psami](#między-nami-psami)
@@ -689,3 +693,5 @@ I otworzy tobie drzwi
 Kto chce też człowieka  
 Lepszy jest niż ty  
 I otworzy tobie drzwi
+
+</main>
