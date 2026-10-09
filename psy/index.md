@@ -22,18 +22,20 @@ Bilety: [BiletyNa](https://biletyna.pl/spektakl/Teatr-Czwarte-Miasto/Miedzy-nami
 - [Audio](#audio)
 - [Kwity](#kwity)
   - [Buty dwa](#buty-dwa)
+  - [Czasem chce się do człowieka](#czasem-chce-się-do-człowieka)
   - [Czy te oczy mogą kłamać](#czy-te-oczy-mogą-kłamać)
   - [Dziś prawdziwych cyganów już nie ma](#dziś-prawdziwych-cyganów-już-nie-ma)
   - [Nie ma jak pompa](#nie-ma-jak-pompa)
   - [Od nocy do nocy](#od-nocy-do-nocy)
 - [Teksty](#teksty)
-  - [Czasem chce się do człowieka](#czasem-chce-się-do-człowieka)
+  - [Czasem chce się do człowieka](#czasem-chce-się-do-człowieka-1)
 
 ## Próby
 [home](#)
 
 | dzień | godzina | miejsce |
 | --- | --- | --- |
+| 14 października | od 17? | do ustalenia |
 | 3 listopada | do 17 | Atelier |
 | 4 listopada | do 17 | Atelier |
 | 10 listopada | do 17 | Atelier |
@@ -159,7 +161,7 @@ Your browser does not support the audio element.
 [home](#)
 
 Source:
-[`chordu.com/chords-tabs-buty-dwa-id_gzKrZ4gOmSM`](https://chordu.com/chords-tabs-buty-dwa-id_gzKrZ4gOmSM)
+[chordu.com/chords-tabs-buty-dwa-id_gzKrZ4gOmSM](https://chordu.com/chords-tabs-buty-dwa-id_gzKrZ4gOmSM)
 
 ```
  _ _ [Dm] _ _ [E] _ _ _ _
@@ -207,11 +209,101 @@ _ _ _ _ _ _ _ _
 _ _ _ _ _ _ _ _ 
 ```
 
+### Czasem chce się do człowieka
+
+Intro instrumental  
+8 bars 4/4
+
+Zwrotka 1  
+4 bars dziwne 6/4 z przednutką  
+6 bars 2/2
+
+Refren 1  
+8+8 bars 4/4
+
+Zwrotka 2
+
+Refren 2
+
+Refren 3 modulacja / nanana / tekst
+
+Outro  
+4+2 bars 4/4
+
+Intro instrumental 4/4  
+|  |  |  |  |  
+|  |  |  |  |
+
+|  |  |  |  | 6/4  
+Dozorca bramę otwiera  
+Pacierze senne ktoś gdera  
+Wracają z nocnej zmiany już  
+Na niebie ślad porannych zórz  
+|  |  |  |  |  |  | 2/2  
+Przy kawie samotnej  
+Przy chlebie samotnym marzę...
+
+|  |  | 4/4  
+Czasem chce się do człowieka  
+Kiedy szczęścia brak  
+|  |  |  
+Kiedy na nas nikt nie czeka  
+Albo byle jak  
+|  |  |  
+Czasem chce się do człowieka  
+Gdy się jest na dnie  
+|  |  | (fermata)  
+Film nie pomaga  
+Książka to blaga  
+Nie, nie, nie!  
+|  |  |  
+Bo nam chce się do człowieka  
+Knajpy znają nas  
+|  |  |  
+Musi minąć jakiś czas  
+|  |  |  
+Musi wyschnąć rzeka  
+Muszą zblednąć sny  
+|  |  |  
+Wtedy wrócą zwykłe dni
+
+|  |  |  |  |  
+Dozorca bramę zamyka  
+Ostatni przechodzień znika  
+Na strychu wielkie pranie schnie  
+Po cichu mysz okruchy je  
+|  |  |  |  |  |  |  
+Zasypiam zbyt wcześnie  
+I marzę już we śnie, we śnie...  
+
+Czasem chce się do człowieka [...] 8 bars   
+|  |  |  
+Nie pomoże żaden lekarz  
+Ani głupia złość  
+|  |  |  
+Musi nadejść taki ktoś  
+|  |  |  
+Kto chce też człowieka  
+Lepszy jest niż ty  
+|  |  |  
+I otworzy tobie drzwi  
+
+Na na na na na na na na [...] 8 bars  
+Nie pomoże żaden lekarz [...] 8 bars
+
+|  |  |  
+Kto chce też człowieka  
+Lepszy jest niż ty  
+|  |  |  
+I otworzy tobie drzwi  
+|  |  |  
+
+
 ### Czy te oczy mogą kłamać
 [home](#)
 
 Source:
-[`zagrajnagitarze.pl/czy-te-oczy-moga-klamac-tekst-i-chwyty-na-gitare/`](https://zagrajnagitarze.pl/czy-te-oczy-moga-klamac-tekst-i-chwyty-na-gitare/)
+[zagrajnagitarze.pl/czy-te-oczy-moga-klamac-tekst-i-chwyty-na-gitare](https://zagrajnagitarze.pl/czy-te-oczy-moga-klamac-tekst-i-chwyty-na-gitare/)
 
 ```
 Intro: a E //x4
@@ -312,7 +404,7 @@ Czy te oczy mogą kłamać – ależ skąd
 [home](#)
 
 Source:
-[`tabs.ultimate-guitar.com/tab/2592453`](https://tabs.ultimate-guitar.com/tab/2592453)
+[tabs.ultimate-guitar.com/tab/2592453](https://tabs.ultimate-guitar.com/tab/2592453)
 
 ```
 Intro można zagrać też tak:
@@ -466,7 +558,7 @@ e|-----|-----|-------|
 [home](#)
 
 Source:
-[`tabs.ultimate-guitar.com/tab/maryla-rodowicz/nie-ma-jak-pompa-chords-3712898`](https://tabs.ultimate-guitar.com/tab/maryla-rodowicz/nie-ma-jak-pompa-chords-3712898)
+[tabs.ultimate-guitar.com/tab/maryla-rodowicz/nie-ma-jak-pompa-chords-3712898](https://tabs.ultimate-guitar.com/tab/maryla-rodowicz/nie-ma-jak-pompa-chords-3712898)
 
 ```
 [Chords]
@@ -665,7 +757,7 @@ E|-----------8-7-|-6-5--4--3------|--------------|
 [home](#)
 
 Source:
-[`tabs.ultimate-guitar.com/tab/halina-kunicka/od-nocy-do-nocy-chords-3348317`](https://tabs.ultimate-guitar.com/tab/halina-kunicka/od-nocy-do-nocy-chords-3348317)
+[tabs.ultimate-guitar.com/tab/halina-kunicka/od-nocy-do-nocy-chords-3348317](https://tabs.ultimate-guitar.com/tab/halina-kunicka/od-nocy-do-nocy-chords-3348317)
 
 ```
 [Chords]
