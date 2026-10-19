@@ -11,13 +11,13 @@ header-includes:
 
 # Paweł Bielski
 
-[Politechnika Gdańska](https://wimio.pg.edu.pl/) | [Polski Rejestr Statków](https://prs.pl/rd/)
+[Politechnika Gdańska](https://wimio.pg.edu.pl) | [Polski Rejestr Statków](https://prs.pl/rd)
 
 ## Kontakt
 
 [e-mail PG](mailto:pawbiels@pg.edu.pl) | [e-mail PRS](mailto:p.bielski@prs.pl) | [Discord](https://discord.com/users/760787726143717397)
 
-[LinkedIn](https://linkedin.com/in/pawbiels/) | [MostWiedzy](https://mostwiedzy.pl/en/pawbiels) | [ORCiD](https://orcid.org/0000-0001-6018-8234) | [Scopus](https://scopus.com/authid/detail.uri?authorId=7801584056) | [ResearchGate](https://researchgate.net/profile/Pawel-Bielski)
+[Github](https://github.com/pawbiels) | [LinkedIn](https://linkedin.com/in/pawbiels) | [MostWiedzy](https://mostwiedzy.pl/en/pawbiels) | [ORCiD](https://orcid.org/0000-0001-6018-8234) | [Scopus](https://scopus.com/authid/detail.uri?authorId=7801584056) | [ResearchGate](https://researchgate.net/profile/Pawel-Bielski)
 
 [_Secret_](./ldrmls/)
 

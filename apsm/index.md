@@ -7,11 +7,21 @@ header-includes:
 
 <main>
 
-# Advanced Problems of Structural Mechanics _Project_
+# Advanced Problems of Structural Mechanics _Project_<!-- omit in toc -->
 
 [**Home**](/)
 
 _pawbiels ver 07.10.2026_
+
+
+- [Contact](#contact)
+- [Schedule of the meetings](#schedule-of-the-meetings)
+- [Course design](#course-design)
+- [Evaluation](#evaluation)
+  - [Mid-semester evaluation](#mid-semester-evaluation)
+  - [Final evaluation](#final-evaluation)
+- [Grading system](#grading-system)
+- [Software downloads and links](#software-downloads-and-links)
 
 
 ## Contact
@@ -46,7 +56,7 @@ The course is held in an open format. Each student is encouraged to propose an i
 
 During the first week, students are expected to present a project plan consisting of:
 - a conceptual description of the problem,
-- the chosen software tools,
+- the chosen [software](#software-downloads-and-links) tools,
 - definition of the expected outcome.
 
 The plan may be modified as the project develops.
@@ -108,5 +118,21 @@ A maximum of 70 points can be obtained for the project part of the subject:
 - **25 pts** --- Final presentation of the project results.
 
 Progress is evaluated in person during the scheduled classes. The awarded points reflect the student’s progress at the given date and are generally not subject to revision.
+
+## Software downloads and links
+
+**Commercial software provided by Gdańsk Tech**
+
+- [Licenses @ SharePoint PG](https://pgedupl.sharepoint.com/sites/WIMiO-intranet/SitePages/Informacje.aspx)
+- [Siemens installers @ SharePoint PG](https://pgedupl.sharepoint.com/:f:/r/sites/SiemensSoftware/Shared%20Documents/General?csf=1&web=1&e=u82ARG)
+- [ANSYS @ Mesco](https://mesco.com.pl/strefa-akademicka/dostep-do-licencji-ansys-na-uczelniach-wyzszych/)
+
+**Open-source software**
+
+- [PrePoMax with Calculix](https://prepomax.fs.um.si/downloads/)
+- [FreeCAD](https://www.freecad.org/downloads.php?lang=en)
+- [gmsh](https://gmsh.info/)
+- [Python @ Miniconda](https://www.anaconda.com/download/success?reg=skipped-miniconda)
+- [Scilab](https://www.scilab.org/download)
 
 </main>

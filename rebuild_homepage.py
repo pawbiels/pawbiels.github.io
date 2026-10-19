@@ -44,24 +44,33 @@ if Path( PSY_DIR / "index.html" ).is_file():
     print("Encrypting PSY...")
     passfile = ROOT / ".." / "psy_passphrase.txt"
     passphrase = passfile.read_text(encoding="utf-8")
-    subprocess.run(
-        [
-            "npx.cmd",
-            "staticrypt",
-            "index.html",
-            "-d",
-            ".",
-            "-p",
-            f"{passphrase}",
-            "--short",
-        ],
-        cwd=PSY_DIR,
-        check=True,
-    )
+
+    try:
+        subprocess.run(
+            [
+                "npx.cmd",
+                "staticrypt",
+                "index.html",
+                "-d",
+                ".",
+                "-p",
+                passphrase,
+                "--short",
+            ],
+            cwd=PSY_DIR,
+            check=True,
+        )
+    except FileNotFoundError:
+        answer = input(
+            "Staticrypt/npx was not found. Proceed WITHOUT encryption? [y/N] "
+        ).strip().lower()
+
+        if answer not in {"y", "yes"}:
+            raise SystemExit("Aborted.")
+        print("Proceeding without encryption.")        
 
 else:
     print("PSY not detected")
-
 
 status = subprocess.run(
     ["git", "status", "--porcelain"],
